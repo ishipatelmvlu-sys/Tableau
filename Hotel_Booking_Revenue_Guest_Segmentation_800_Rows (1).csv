@@ -1,0 +1,801 @@
+Booking ID,Customer ID,Booking Date,Check-in Date,Hotel,City,Region,Room Type,Booking Category,Booking Channel,Guests,Nights,Room Rate,Discount (%),Revenue,Cost,Profit,Customer Age,Customer Gender,Payment Method,Customer Rating,Booking Status
+HB00001,G1149,2025-03-06,2025-04-21,GrandAura,Bengaluru,South,Standard,Weekend Stay,Mobile App,2,4,1800,10,8765.16,6116.11,2649.05,49,Male,Credit Card,3.8,Confirmed
+HB00002,G1202,2025-03-17,2025-04-16,BlueHarbor,Mumbai,West,Deluxe,Weekend Stay,Travel Agent,2,1,2800,15,4542.03,2573.6,1968.43,43,Male,Debit Card,3.1,Completed
+HB00003,G1210,2025-05-16,2025-06-29,CedarCrown,Hyderabad,South,Standard,Business Stay,Mobile App,1,6,1800,15,12255.55,6853.55,5402,22,Other,Net Banking,4.5,Cancelled
+HB00004,G1182,2025-07-04,2025-08-03,BlueHarbor,Jaipur,North,Premium,Family Stay,Travel Agent,4,5,4200,15,21883.89,15211.16,6672.73,21,Female,Net Banking,3.6,Confirmed
+HB00005,G1161,2025-07-30,2025-08-19,BlueHarbor,Mumbai,West,Premium,Weekend Stay,Website,1,4,4200,5,16331.37,9078.11,7253.26,55,Male,Credit Card,4.5,Confirmed
+HB00006,G1137,2025-04-22,2025-07-21,MapleStay,Jaipur,North,Standard,Weekend Stay,Corporate,2,5,1800,0,11955.41,8493.96,3461.45,31,Other,Wallet,3.7,Confirmed
+HB00007,G1080,2025-01-22,2025-04-08,RoyalVista,Delhi,North,Premium,Family Stay,Travel Agent,2,6,4200,12,28371.64,19399.18,8972.46,68,Female,Debit Card,4.7,Cancelled
+HB00008,G1109,2025-07-02,2025-09-09,MapleStay,Guwahati,East,Standard,Family Stay,Mobile App,1,2,1800,12,4579.56,3147.46,1432.1,25,Male,Credit Card,3,Confirmed
+HB00009,G1017,2025-07-08,2025-08-16,RoyalVista,Hyderabad,South,Deluxe,Leisure Stay,Mobile App,3,2,2800,12,8474,4567.61,3906.39,37,Female,UPI,3.5,Confirmed
+HB00010,G1166,2025-03-02,2025-04-16,UrbanNest,Chennai,South,Deluxe,Leisure Stay,Travel Agent,3,4,2800,0,13360.67,9755.81,3604.86,57,Female,Net Banking,4.6,Confirmed
+HB00011,G1193,2025-12-05,2026-01-03,GrandAura,Lucknow,North,Deluxe,Family Stay,Travel Agent,4,2,2800,8,6925.01,3997.42,2927.59,60,Male,Net Banking,4.4,Confirmed
+HB00012,G1195,2025-06-29,2025-08-21,GrandAura,Kolkata,East,Standard,Weekend Stay,Mobile App,3,7,1800,5,12974.07,9584.03,3390.04,59,Male,Net Banking,3.9,Confirmed
+HB00013,G1140,2025-11-17,2025-12-22,RoyalVista,Lucknow,North,Deluxe,Business Stay,Travel Agent,4,2,2800,10,8222.34,5807.28,2415.06,55,Female,Debit Card,4.3,Confirmed
+HB00014,G1025,2025-12-14,2026-02-16,CedarCrown,Bhubaneswar,East,Premium,Leisure Stay,Corporate,3,6,4200,0,24244.34,12673.34,11571,30,Other,Debit Card,4.1,Confirmed
+HB00015,G1034,2025-06-21,2025-09-04,GrandAura,Kolkata,East,Premium,Weekend Stay,Corporate,1,6,4200,0,22339.81,15454.14,6885.67,48,Other,Debit Card,4.9,Confirmed
+HB00016,G1005,2025-04-18,2025-06-16,MapleStay,Jaipur,North,Deluxe,Business Stay,Mobile App,1,5,2800,0,17873.89,13677.16,4196.73,60,Other,Wallet,3.4,Confirmed
+HB00017,G1181,2025-06-08,2025-06-19,CedarCrown,Bengaluru,South,Deluxe,Leisure Stay,Website,3,5,2800,10,16384.81,11648.05,4736.76,37,Male,UPI,5,Cancelled
+HB00018,G1169,2025-12-06,2026-01-19,BlueHarbor,Lucknow,North,Deluxe,Family Stay,Corporate,3,3,2800,0,9780.38,6308.12,3472.26,29,Male,Debit Card,3.7,Cancelled
+HB00019,G1051,2025-07-08,2025-08-13,GrandAura,Guwahati,East,Standard,Business Stay,Corporate,3,5,1800,15,11998.49,7829.07,4169.42,66,Other,UPI,4,Confirmed
+HB00020,G1126,2025-06-12,2025-09-05,RoyalVista,Lucknow,North,Standard,Leisure Stay,Travel Agent,4,3,1800,0,11224.19,5920.85,5303.34,46,Male,Wallet,3.5,Cancelled
+HB00021,G1131,2025-09-27,2025-10-14,BlueHarbor,Delhi,North,Premium,Weekend Stay,Mobile App,3,5,4200,10,21558.02,14658.62,6899.4,62,Male,Wallet,4.1,Confirmed
+HB00022,G1156,2025-10-10,2025-10-30,RoyalVista,Ahmedabad,West,Premium,Business Stay,Website,3,6,4200,5,30775.88,23709.94,7065.94,55,Other,Debit Card,4.4,Confirmed
+HB00023,G1118,2025-03-28,2025-04-21,RoyalVista,Mumbai,West,Deluxe,Weekend Stay,Corporate,1,6,2800,10,15449.75,8403.38,7046.37,60,Male,Wallet,4.4,Cancelled
+HB00024,G1040,2025-06-16,2025-07-05,UrbanNest,Hyderabad,South,Deluxe,Business Stay,Website,3,6,2800,10,15733.83,8964.27,6769.56,22,Other,Debit Card,4.6,Cancelled
+HB00025,G1170,2025-08-10,2025-09-05,RoyalVista,Ahmedabad,West,Standard,Weekend Stay,Mobile App,2,7,1800,12,14014.54,8829.53,5185.01,37,Male,Debit Card,4.7,Confirmed
+HB00026,G1080,2025-11-19,2026-01-15,GrandAura,Kolkata,East,Standard,Leisure Stay,Mobile App,1,5,1800,12,8774.56,4923.38,3851.18,68,Female,UPI,3.3,Cancelled
+HB00027,G1049,2025-08-08,2025-08-12,CedarCrown,Ahmedabad,West,Premium,Family Stay,Travel Agent,4,5,4200,5,20351.34,15029.91,5321.43,65,Female,Debit Card,4,Confirmed
+HB00028,G1028,2025-03-15,2025-05-26,GrandAura,Lucknow,North,Standard,Business Stay,Travel Agent,1,2,1800,15,3743.71,2721.97,1021.74,22,Other,Debit Card,4.6,Confirmed
+HB00029,G1209,2025-05-22,2025-06-29,MapleStay,Pune,West,Standard,Weekend Stay,Website,4,1,1800,0,5551.05,4182.86,1368.19,41,Other,Net Banking,3.3,Confirmed
+HB00030,G1101,2025-02-17,2025-03-11,UrbanNest,Jaipur,North,Suite,Business Stay,Website,2,5,6500,5,31589.54,22315.19,9274.35,47,Other,Debit Card,3.9,Confirmed
+HB00031,G1103,2025-05-03,2025-07-08,GrandAura,Lucknow,North,Standard,Leisure Stay,Mobile App,2,7,1800,10,14831.2,9183.79,5647.41,58,Female,Net Banking,4.1,Cancelled
+HB00032,G1056,2025-07-16,2025-07-21,RoyalVista,Chennai,South,Standard,Family Stay,Travel Agent,1,5,1800,0,10178.96,7815.68,2363.28,65,Female,Net Banking,3.2,Confirmed
+HB00033,G1207,2025-04-22,2025-07-07,RoyalVista,Hyderabad,South,Deluxe,Business Stay,Website,4,1,2800,0,5748.59,3381.87,2366.72,67,Male,Net Banking,4.6,Completed
+HB00034,G1069,2025-07-11,2025-07-22,UrbanNest,Ahmedabad,West,Standard,Business Stay,Corporate,1,3,1800,12,5833.69,3741.81,2091.88,23,Female,Wallet,4.9,Confirmed
+HB00035,G1220,2025-04-08,2025-07-01,UrbanNest,Chennai,South,Standard,Leisure Stay,Website,2,6,1800,0,11170.59,7177.77,3992.82,22,Female,Debit Card,3.5,Completed
+HB00036,G1043,2025-10-08,2025-12-29,MapleStay,Kolkata,East,Standard,Business Stay,Travel Agent,4,5,1800,0,11586.55,7270.69,4315.86,54,Other,Credit Card,4.1,Cancelled
+HB00037,G1173,2025-11-15,2025-12-08,RoyalVista,Delhi,North,Deluxe,Family Stay,Corporate,2,2,2800,0,6450.24,4608.28,1841.96,24,Female,Debit Card,3.3,Completed
+HB00038,G1133,2025-05-05,2025-07-05,RoyalVista,Guwahati,East,Deluxe,Family Stay,Mobile App,1,7,2800,0,18943.15,14607.2,4335.95,64,Male,Net Banking,4,Cancelled
+HB00039,G1172,2025-10-18,2025-12-01,UrbanNest,Lucknow,North,Deluxe,Business Stay,Travel Agent,1,5,2800,5,13852.69,9345.19,4507.5,27,Other,Credit Card,4.2,Completed
+HB00040,G1046,2025-06-07,2025-08-15,BlueHarbor,Mumbai,West,Premium,Leisure Stay,Corporate,1,1,4200,0,4796.27,3251.39,1544.88,51,Male,Wallet,4,Cancelled
+HB00041,G1029,2025-02-04,2025-02-21,MapleStay,Kolkata,East,Standard,Weekend Stay,Travel Agent,4,1,1800,8,6753.81,4624.44,2129.37,44,Female,UPI,3,Completed
+HB00042,G1032,2025-02-19,2025-03-21,GrandAura,Lucknow,North,Premium,Weekend Stay,Travel Agent,4,7,4200,5,36485.72,23202.96,13282.76,58,Other,Net Banking,4.2,Cancelled
+HB00043,G1076,2025-06-10,2025-07-02,MapleStay,Kolkata,East,Standard,Leisure Stay,Travel Agent,2,1,1800,0,4217.01,3070.09,1146.92,51,Male,Net Banking,3.5,Confirmed
+HB00044,G1154,2025-06-21,2025-09-12,RoyalVista,Bengaluru,South,Deluxe,Family Stay,Corporate,3,5,2800,0,19139.68,12483.94,6655.74,50,Other,Debit Card,3.1,Completed
+HB00045,G1212,2025-04-11,2025-05-20,CedarCrown,Bengaluru,South,Deluxe,Weekend Stay,Corporate,1,2,2800,15,6155.87,4155.97,1999.9,56,Male,Net Banking,3.7,Confirmed
+HB00046,G1215,2025-07-31,2025-08-29,MapleStay,Bhubaneswar,East,Premium,Family Stay,Travel Agent,4,6,4200,10,25181.11,15904.6,9276.51,28,Male,Debit Card,4.2,Confirmed
+HB00047,G1219,2025-05-05,2025-07-16,BlueHarbor,Bengaluru,South,Premium,Business Stay,Website,2,5,4200,8,19575.39,15256.08,4319.31,62,Female,Credit Card,3.3,Completed
+HB00048,G1049,2025-07-11,2025-07-15,UrbanNest,Pune,West,Standard,Weekend Stay,Website,3,5,1800,12,12423.87,6778.47,5645.4,65,Female,Net Banking,3.5,Confirmed
+HB00049,G1001,2025-02-19,2025-02-28,CedarCrown,Lucknow,North,Standard,Weekend Stay,Website,2,7,1800,8,15580.81,9482.94,6097.87,28,Female,UPI,3.4,Confirmed
+HB00050,G1089,2025-05-02,2025-05-22,UrbanNest,Chennai,South,Premium,Weekend Stay,Mobile App,1,4,4200,0,19653.61,12477.41,7176.2,38,Other,UPI,3.1,Cancelled
+HB00051,G1090,2025-02-20,2025-02-27,GrandAura,Ahmedabad,West,Deluxe,Family Stay,Mobile App,1,4,2800,15,9838,5478.07,4359.93,61,Female,Net Banking,4.2,Confirmed
+HB00052,G1067,2025-08-11,2025-08-25,BlueHarbor,Delhi,North,Suite,Business Stay,Corporate,3,6,6500,15,35580.83,23852.71,11728.12,52,Female,UPI,3.5,Completed
+HB00053,G1135,2025-04-03,2025-06-10,UrbanNest,Jaipur,North,Deluxe,Family Stay,Corporate,4,4,2800,0,17852.44,12568.29,5284.15,54,Male,Debit Card,4.5,Completed
+HB00054,G1114,2025-03-25,2025-05-10,BlueHarbor,Hyderabad,South,Suite,Family Stay,Website,2,7,6500,10,35771.42,21741.34,14030.08,64,Female,Wallet,3.6,Confirmed
+HB00055,G1170,2025-06-22,2025-08-13,MapleStay,Bengaluru,South,Deluxe,Weekend Stay,Website,4,6,2800,5,21423.29,14311.69,7111.6,37,Male,Debit Card,3.7,Confirmed
+HB00056,G1099,2025-06-29,2025-08-01,UrbanNest,Chennai,South,Standard,Weekend Stay,Website,1,7,1800,10,14117.65,10252.78,3864.87,65,Other,Wallet,3.2,Confirmed
+HB00057,G1111,2025-05-14,2025-07-03,BlueHarbor,Guwahati,East,Standard,Leisure Stay,Website,2,3,1800,15,6060.97,4666.1,1394.87,43,Male,UPI,4.1,Confirmed
+HB00058,G1174,2025-11-10,2026-01-18,MapleStay,Bhubaneswar,East,Standard,Leisure Stay,Website,2,5,1800,0,10865.54,7893.84,2971.7,67,Male,Net Banking,3.1,Completed
+HB00059,G1189,2025-07-18,2025-07-23,MapleStay,Chennai,South,Deluxe,Family Stay,Corporate,4,2,2800,5,6280.13,3509.89,2770.24,57,Female,Debit Card,4.3,Completed
+HB00060,G1043,2025-11-07,2025-12-28,UrbanNest,Mumbai,West,Deluxe,Weekend Stay,Corporate,2,6,2800,15,17666.12,9620.57,8045.55,54,Other,Net Banking,3.3,Confirmed
+HB00061,G1070,2025-08-25,2025-11-01,RoyalVista,Ahmedabad,West,Standard,Family Stay,Website,2,5,1800,8,9290.4,7167.19,2123.21,41,Female,UPI,4.7,Confirmed
+HB00062,G1094,2025-10-23,2026-01-17,MapleStay,Jaipur,North,Standard,Family Stay,Travel Agent,3,1,1800,10,2866.64,1545.18,1321.46,52,Other,UPI,3.5,Completed
+HB00063,G1090,2025-03-12,2025-04-03,MapleStay,Delhi,North,Standard,Business Stay,Corporate,4,2,1800,0,5608.66,4284.43,1324.23,61,Female,Debit Card,3.9,Completed
+HB00064,G1035,2025-11-16,2025-12-23,UrbanNest,Hyderabad,South,Suite,Family Stay,Mobile App,4,7,6500,5,49005.11,27417.41,21587.7,59,Female,Debit Card,3.9,Confirmed
+HB00065,G1054,2025-06-07,2025-06-23,GrandAura,Bhubaneswar,East,Standard,Family Stay,Travel Agent,2,3,1800,15,7507.84,3996.52,3511.32,40,Other,Debit Card,3.1,Cancelled
+HB00066,G1024,2025-04-14,2025-07-07,UrbanNest,Hyderabad,South,Standard,Family Stay,Mobile App,3,2,1800,10,5167.31,3813.21,1354.1,39,Female,UPI,4.4,Completed
+HB00067,G1191,2025-11-12,2025-12-11,CedarCrown,Lucknow,North,Deluxe,Weekend Stay,Corporate,1,1,2800,5,3569.03,2043.2,1525.83,59,Other,Net Banking,4.9,Completed
+HB00068,G1163,2025-09-26,2025-11-10,MapleStay,Bengaluru,South,Premium,Business Stay,Website,4,7,4200,10,33656.72,17847.3,15809.42,66,Female,Net Banking,3.3,Cancelled
+HB00069,G1104,2025-03-03,2025-05-25,UrbanNest,Lucknow,North,Standard,Leisure Stay,Corporate,2,7,1800,12,11600.06,6059.04,5541.02,53,Female,Credit Card,3.1,Completed
+HB00070,G1122,2025-06-29,2025-07-22,RoyalVista,Bhubaneswar,East,Premium,Family Stay,Mobile App,4,4,4200,10,18914.38,11962.5,6951.88,42,Female,Debit Card,3.2,Cancelled
+HB00071,G1218,2025-07-08,2025-08-05,CedarCrown,Hyderabad,South,Deluxe,Weekend Stay,Travel Agent,2,5,2800,15,15616.81,11306.72,4310.09,59,Other,Debit Card,4.1,Confirmed
+HB00072,G1190,2025-05-18,2025-06-11,RoyalVista,Chennai,South,Standard,Leisure Stay,Travel Agent,4,1,1800,5,4813.1,3572.1,1241,41,Female,Wallet,4.4,Confirmed
+HB00073,G1178,2025-02-16,2025-05-08,GrandAura,Jaipur,North,Standard,Business Stay,Corporate,4,1,1800,0,5109.48,3585.53,1523.95,58,Male,Wallet,3.6,Confirmed
+HB00074,G1134,2025-03-08,2025-04-09,BlueHarbor,Kolkata,East,Suite,Family Stay,Travel Agent,3,3,6500,5,25120.77,18132.6,6988.17,29,Other,UPI,3.6,Completed
+HB00075,G1193,2025-02-08,2025-04-20,BlueHarbor,Jaipur,North,Standard,Leisure Stay,Corporate,3,2,1800,0,6384.95,4546.37,1838.58,60,Male,UPI,3,Confirmed
+HB00076,G1005,2025-01-22,2025-04-13,RoyalVista,Bhubaneswar,East,Standard,Weekend Stay,Website,1,3,1800,15,5018.68,3658.27,1360.41,60,Other,UPI,3.3,Confirmed
+HB00077,G1057,2025-01-20,2025-03-09,RoyalVista,Mumbai,West,Standard,Weekend Stay,Corporate,1,4,1800,8,9259.49,6869.83,2389.66,46,Female,Wallet,4.8,Confirmed
+HB00078,G1103,2025-05-03,2025-06-18,UrbanNest,Pune,West,Standard,Leisure Stay,Mobile App,1,1,1800,0,2447.9,1275.1,1172.8,58,Female,UPI,3,Confirmed
+HB00079,G1100,2025-04-11,2025-06-07,GrandAura,Bengaluru,South,Standard,Family Stay,Mobile App,2,1,1800,0,2967.91,1866.39,1101.52,39,Male,Wallet,3.1,Confirmed
+HB00080,G1201,2025-03-18,2025-06-04,GrandAura,Chennai,South,Standard,Family Stay,Corporate,2,7,1800,0,15618.05,10536.06,5081.99,45,Female,Wallet,4,Confirmed
+HB00081,G1051,2025-09-09,2025-09-17,GrandAura,Ahmedabad,West,Deluxe,Business Stay,Corporate,3,7,2800,15,18981.29,12752.1,6229.19,66,Other,UPI,4.8,Completed
+HB00082,G1028,2025-05-30,2025-08-01,GrandAura,Bhubaneswar,East,Deluxe,Family Stay,Travel Agent,3,1,2800,0,4647.69,3402.6,1245.09,22,Other,Debit Card,3.2,Cancelled
+HB00083,G1107,2025-09-23,2025-10-12,MapleStay,Lucknow,North,Deluxe,Family Stay,Website,3,7,2800,12,18868.11,14669.84,4198.27,45,Male,Credit Card,4.4,Cancelled
+HB00084,G1068,2025-04-25,2025-06-17,MapleStay,Ahmedabad,West,Premium,Business Stay,Mobile App,2,4,4200,12,17859.02,10005.29,7853.73,56,Other,UPI,4.5,Confirmed
+HB00085,G1104,2025-03-25,2025-05-31,CedarCrown,Chennai,South,Suite,Family Stay,Website,1,2,6500,10,14960.27,11613.55,3346.72,53,Female,Net Banking,4.2,Completed
+HB00086,G1116,2025-01-06,2025-02-14,UrbanNest,Lucknow,North,Deluxe,Business Stay,Website,2,1,2800,15,3514.51,1990.22,1524.29,28,Female,Credit Card,4.2,Cancelled
+HB00087,G1187,2025-04-10,2025-07-02,RoyalVista,Hyderabad,South,Premium,Weekend Stay,Website,2,4,4200,8,16011.45,10943.19,5068.26,28,Male,Wallet,3.3,Confirmed
+HB00088,G1136,2025-06-26,2025-08-17,UrbanNest,Chennai,South,Standard,Leisure Stay,Mobile App,4,1,1800,8,5963.06,4033.22,1929.84,54,Male,Wallet,3.7,Confirmed
+HB00089,G1057,2025-03-06,2025-05-08,BlueHarbor,Bengaluru,South,Premium,Business Stay,Website,3,3,4200,15,12428.23,6633.3,5794.93,46,Female,Credit Card,3.4,Cancelled
+HB00090,G1019,2025-08-31,2025-09-10,RoyalVista,Pune,West,Premium,Family Stay,Mobile App,3,6,4200,5,22962.3,12151.46,10810.84,68,Other,Credit Card,4.7,Cancelled
+HB00091,G1140,2025-01-09,2025-01-23,RoyalVista,Jaipur,North,Standard,Business Stay,Website,1,3,1800,0,5588.4,3063.99,2524.41,55,Female,Credit Card,4.7,Confirmed
+HB00092,G1095,2025-03-02,2025-03-13,RoyalVista,Hyderabad,South,Deluxe,Family Stay,Website,2,3,2800,15,8465.11,5565.48,2899.63,67,Male,Wallet,4.6,Completed
+HB00093,G1104,2025-11-22,2025-12-01,BlueHarbor,Delhi,North,Premium,Business Stay,Mobile App,2,7,4200,15,32476.01,21296.27,11179.74,53,Female,Credit Card,4.3,Cancelled
+HB00094,G1053,2025-09-08,2025-11-16,GrandAura,Chennai,South,Standard,Business Stay,Travel Agent,2,4,1800,12,7389.04,4466.72,2922.32,46,Other,Debit Card,4.4,Confirmed
+HB00095,G1036,2025-08-17,2025-10-12,CedarCrown,Pune,West,Deluxe,Weekend Stay,Travel Agent,4,3,2800,15,8390.33,6534.97,1855.36,46,Other,Debit Card,4.5,Confirmed
+HB00096,G1058,2025-11-10,2025-12-10,UrbanNest,Guwahati,East,Deluxe,Family Stay,Website,4,4,2800,10,12913.03,8101.65,4811.38,33,Female,Debit Card,3.7,Confirmed
+HB00097,G1179,2025-04-23,2025-05-23,GrandAura,Hyderabad,South,Premium,Leisure Stay,Corporate,4,2,4200,15,8453.96,6422.79,2031.17,39,Female,Wallet,3.8,Confirmed
+HB00098,G1074,2025-07-24,2025-10-09,RoyalVista,Mumbai,West,Deluxe,Business Stay,Travel Agent,2,3,2800,15,10636.32,6694.8,3941.52,49,Male,Net Banking,5,Confirmed
+HB00099,G1123,2025-06-23,2025-08-12,GrandAura,Kolkata,East,Standard,Weekend Stay,Travel Agent,1,5,1800,0,10324.82,7144.44,3180.38,59,Male,Wallet,4.8,Completed
+HB00100,G1111,2025-03-29,2025-04-22,CedarCrown,Kolkata,East,Deluxe,Weekend Stay,Corporate,3,1,2800,12,5779.15,3931.53,1847.62,43,Male,Wallet,3.2,Confirmed
+HB00101,G1007,2025-10-19,2025-12-25,GrandAura,Chennai,South,Deluxe,Business Stay,Mobile App,2,5,2800,8,12386.25,6495.24,5891.01,56,Other,Wallet,3.2,Cancelled
+HB00102,G1158,2025-03-16,2025-06-04,BlueHarbor,Jaipur,North,Standard,Weekend Stay,Mobile App,4,5,1800,5,14308.93,10620.55,3688.38,43,Male,UPI,3.4,Cancelled
+HB00103,G1199,2025-08-13,2025-09-17,BlueHarbor,Bengaluru,South,Standard,Leisure Stay,Website,4,4,1800,0,11890.08,6444.63,5445.45,44,Other,Net Banking,3.2,Confirmed
+HB00104,G1214,2025-04-21,2025-05-29,CedarCrown,Chennai,South,Premium,Weekend Stay,Corporate,3,3,4200,10,14545.97,9740.31,4805.66,31,Other,Credit Card,4.6,Confirmed
+HB00105,G1044,2025-02-07,2025-02-24,CedarCrown,Bengaluru,South,Standard,Weekend Stay,Mobile App,4,6,1800,0,14956.51,11519.28,3437.23,27,Other,Credit Card,3.2,Completed
+HB00106,G1070,2025-09-08,2025-09-20,UrbanNest,Bhubaneswar,East,Premium,Leisure Stay,Travel Agent,2,3,4200,5,11627.43,7211.01,4416.42,41,Female,Credit Card,3.6,Completed
+HB00107,G1129,2025-04-07,2025-06-07,CedarCrown,Chennai,South,Standard,Family Stay,Travel Agent,4,1,1800,8,3221.17,2423.94,797.23,62,Other,Credit Card,3.5,Confirmed
+HB00108,G1220,2025-02-06,2025-02-16,MapleStay,Lucknow,North,Suite,Family Stay,Corporate,4,3,6500,10,26050.92,15472.23,10578.69,22,Female,UPI,4.5,Confirmed
+HB00109,G1008,2025-08-23,2025-11-12,MapleStay,Guwahati,East,Standard,Family Stay,Website,1,3,1800,15,4759.27,3442.48,1316.79,52,Other,UPI,3.9,Confirmed
+HB00110,G1196,2025-12-16,2025-12-20,RoyalVista,Guwahati,East,Premium,Business Stay,Travel Agent,4,5,4200,0,23943.53,12838.28,11105.25,59,Female,Wallet,4.2,Confirmed
+HB00111,G1183,2025-05-27,2025-06-30,UrbanNest,Bengaluru,South,Standard,Family Stay,Corporate,2,3,1800,15,6734.14,3622.71,3111.43,37,Female,Debit Card,4.3,Confirmed
+HB00112,G1075,2025-10-20,2025-10-25,MapleStay,Bhubaneswar,East,Premium,Leisure Stay,Website,1,7,4200,0,29287.42,21939.01,7348.41,48,Other,Wallet,4.6,Confirmed
+HB00113,G1057,2025-09-06,2025-11-26,CedarCrown,Delhi,North,Standard,Weekend Stay,Travel Agent,4,2,1800,5,8501.04,4732.53,3768.51,46,Female,UPI,3.9,Confirmed
+HB00114,G1185,2025-09-18,2025-09-20,BlueHarbor,Kolkata,East,Suite,Business Stay,Corporate,3,3,6500,8,20896.46,14936.61,5959.85,27,Male,Debit Card,4.5,Confirmed
+HB00115,G1047,2025-10-01,2025-11-05,UrbanNest,Bengaluru,South,Suite,Weekend Stay,Mobile App,1,3,6500,0,22344.81,13775.99,8568.82,51,Male,Debit Card,4.6,Confirmed
+HB00116,G1106,2025-10-27,2026-01-25,GrandAura,Ahmedabad,West,Deluxe,Business Stay,Travel Agent,2,3,2800,0,9336.75,7095.21,2241.54,54,Male,Credit Card,3.4,Confirmed
+HB00117,G1126,2025-05-21,2025-07-19,GrandAura,Chennai,South,Standard,Weekend Stay,Website,1,4,1800,12,7201.14,4253.19,2947.95,46,Male,Wallet,4,Confirmed
+HB00118,G1212,2025-04-29,2025-07-22,UrbanNest,Jaipur,North,Suite,Weekend Stay,Travel Agent,2,6,6500,15,30581.74,20540.96,10040.78,56,Male,Net Banking,4.7,Confirmed
+HB00119,G1071,2025-07-26,2025-08-10,CedarCrown,Mumbai,West,Standard,Family Stay,Corporate,1,5,1800,12,10047.84,5954.64,4093.2,27,Female,Net Banking,3.8,Confirmed
+HB00120,G1020,2025-03-29,2025-04-17,MapleStay,Ahmedabad,West,Premium,Family Stay,Mobile App,1,1,4200,12,5254.11,3368.53,1885.58,61,Male,Debit Card,4.2,Cancelled
+HB00121,G1137,2025-02-02,2025-04-06,MapleStay,Hyderabad,South,Deluxe,Family Stay,Corporate,4,4,2800,12,13869.79,8456.38,5413.41,31,Other,UPI,4,Cancelled
+HB00122,G1110,2025-01-06,2025-02-23,CedarCrown,Jaipur,North,Deluxe,Weekend Stay,Corporate,4,3,2800,8,9986.09,7510.46,2475.63,43,Other,UPI,3.5,Confirmed
+HB00123,G1133,2025-08-22,2025-08-31,BlueHarbor,Chennai,South,Deluxe,Leisure Stay,Corporate,1,4,2800,0,13649.89,9109.46,4540.43,64,Male,Debit Card,3.9,Confirmed
+HB00124,G1158,2025-01-28,2025-02-24,GrandAura,Lucknow,North,Standard,Family Stay,Website,4,7,1800,15,15776.72,9589.46,6187.26,43,Male,Net Banking,3.6,Cancelled
+HB00125,G1151,2025-02-14,2025-02-18,MapleStay,Bengaluru,South,Premium,Leisure Stay,Mobile App,2,1,4200,8,4233.73,3161.63,1072.1,38,Male,Wallet,3.6,Confirmed
+HB00126,G1188,2025-05-21,2025-06-18,UrbanNest,Pune,West,Standard,Leisure Stay,Corporate,4,3,1800,15,6781.82,4939.76,1842.06,64,Other,Wallet,4.4,Confirmed
+HB00127,G1124,2025-02-08,2025-03-20,RoyalVista,Delhi,North,Standard,Leisure Stay,Travel Agent,2,4,1800,10,10467.16,7864.5,2602.66,64,Other,Debit Card,4,Confirmed
+HB00128,G1058,2025-03-30,2025-05-27,UrbanNest,Jaipur,North,Standard,Business Stay,Corporate,2,3,1800,15,5944.16,3408.37,2535.79,33,Female,Debit Card,3.2,Confirmed
+HB00129,G1213,2025-04-19,2025-05-15,UrbanNest,Kolkata,East,Premium,Leisure Stay,Website,3,3,4200,15,14076.9,10642.1,3434.8,67,Male,Debit Card,3.1,Confirmed
+HB00130,G1138,2025-07-15,2025-09-04,GrandAura,Bhubaneswar,East,Standard,Leisure Stay,Travel Agent,1,2,1800,12,4665.31,2599.09,2066.22,32,Female,Credit Card,3.7,Confirmed
+HB00131,G1021,2025-12-14,2026-03-12,GrandAura,Guwahati,East,Standard,Family Stay,Mobile App,1,7,1800,0,12793.44,9965.64,2827.8,67,Female,Debit Card,3.7,Completed
+HB00132,G1216,2025-07-23,2025-09-07,BlueHarbor,Kolkata,East,Standard,Family Stay,Travel Agent,2,6,1800,12,10694.59,5661.66,5032.93,23,Male,UPI,3.1,Cancelled
+HB00133,G1084,2025-07-06,2025-08-18,CedarCrown,Ahmedabad,West,Standard,Family Stay,Mobile App,2,4,1800,5,8292.31,5634.09,2658.22,58,Other,UPI,3.1,Completed
+HB00134,G1134,2025-03-29,2025-04-27,BlueHarbor,Hyderabad,South,Standard,Family Stay,Website,1,2,1800,15,4088.61,2595.07,1493.54,29,Other,Net Banking,3.7,Confirmed
+HB00135,G1080,2025-10-14,2025-11-14,BlueHarbor,Jaipur,North,Deluxe,Family Stay,Travel Agent,3,7,2800,15,23182.24,14228.27,8953.97,68,Female,UPI,4.3,Completed
+HB00136,G1219,2025-03-26,2025-06-11,GrandAura,Pune,West,Standard,Leisure Stay,Corporate,2,5,1800,0,11710.54,8082.75,3627.79,62,Female,UPI,3.9,Confirmed
+HB00137,G1106,2025-09-19,2025-09-20,MapleStay,Chennai,South,Premium,Business Stay,Travel Agent,2,3,4200,8,15740.97,9846.87,5894.1,54,Male,UPI,3.3,Confirmed
+HB00138,G1149,2025-10-13,2025-11-06,GrandAura,Lucknow,North,Standard,Leisure Stay,Corporate,4,7,1800,10,13573.62,7227.51,6346.11,49,Male,UPI,3.8,Confirmed
+HB00139,G1115,2025-08-28,2025-09-26,BlueHarbor,Bengaluru,South,Premium,Family Stay,Mobile App,3,2,4200,10,11429.2,8242.86,3186.34,49,Female,Net Banking,3.5,Confirmed
+HB00140,G1012,2025-05-29,2025-08-26,GrandAura,Pune,West,Standard,Business Stay,Travel Agent,2,6,1800,5,12724.9,7113.71,5611.19,39,Male,Credit Card,3.2,Confirmed
+HB00141,G1124,2025-07-24,2025-09-20,CedarCrown,Lucknow,North,Suite,Leisure Stay,Corporate,3,6,6500,0,45841.43,30093.32,15748.11,64,Other,UPI,4,Confirmed
+HB00142,G1139,2025-10-23,2025-11-17,RoyalVista,Delhi,North,Deluxe,Business Stay,Corporate,1,5,2800,0,15822.04,10071.56,5750.48,38,Female,Net Banking,4,Cancelled
+HB00143,G1013,2025-03-03,2025-04-23,GrandAura,Bengaluru,South,Suite,Family Stay,Travel Agent,4,5,6500,8,38717.88,25209.51,13508.37,49,Male,Net Banking,4.3,Confirmed
+HB00144,G1120,2025-08-21,2025-10-16,RoyalVista,Mumbai,West,Premium,Leisure Stay,Mobile App,3,6,4200,12,30049,18585.21,11463.79,54,Male,Net Banking,3.4,Completed
+HB00145,G1064,2025-08-13,2025-09-25,GrandAura,Guwahati,East,Standard,Family Stay,Travel Agent,4,3,1800,0,8186.32,5232.94,2953.38,33,Female,Net Banking,4.5,Confirmed
+HB00146,G1109,2025-12-09,2026-01-28,UrbanNest,Delhi,North,Suite,Family Stay,Travel Agent,1,6,6500,15,35927.88,23410.67,12517.21,25,Male,Net Banking,4.7,Confirmed
+HB00147,G1026,2025-09-01,2025-11-09,BlueHarbor,Mumbai,West,Standard,Family Stay,Website,2,2,1800,10,4349.78,2806.18,1543.6,66,Other,Debit Card,3.9,Confirmed
+HB00148,G1068,2025-12-22,2026-03-17,CedarCrown,Bhubaneswar,East,Standard,Leisure Stay,Corporate,3,2,1800,15,4000.76,3067.59,933.17,56,Other,Net Banking,4.4,Confirmed
+HB00149,G1090,2025-11-19,2025-12-31,GrandAura,Bhubaneswar,East,Standard,Weekend Stay,Travel Agent,2,6,1800,0,14766.37,11306.86,3459.51,61,Female,Net Banking,3.3,Confirmed
+HB00150,G1100,2025-07-19,2025-08-12,GrandAura,Kolkata,East,Standard,Weekend Stay,Corporate,4,4,1800,8,8646.64,5830.55,2816.09,39,Male,Net Banking,4,Confirmed
+HB00151,G1019,2025-08-08,2025-09-12,UrbanNest,Kolkata,East,Deluxe,Family Stay,Website,2,5,2800,8,17564.62,11718.58,5846.04,68,Other,Wallet,4.9,Cancelled
+HB00152,G1075,2025-11-09,2025-12-28,BlueHarbor,Ahmedabad,West,Standard,Business Stay,Website,4,2,1800,5,7465.22,5133.42,2331.8,48,Other,Debit Card,4.5,Completed
+HB00153,G1008,2025-09-12,2025-11-22,MapleStay,Bengaluru,South,Standard,Family Stay,Website,2,2,1800,15,5506,3223.94,2282.06,52,Other,Debit Card,3,Confirmed
+HB00154,G1090,2025-03-27,2025-04-09,UrbanNest,Bengaluru,South,Deluxe,Leisure Stay,Corporate,2,5,2800,0,15972.22,9507.06,6465.16,61,Female,Debit Card,3.1,Cancelled
+HB00155,G1105,2025-02-14,2025-03-17,UrbanNest,Lucknow,North,Standard,Weekend Stay,Website,2,4,1800,8,8986.11,6310.24,2675.87,45,Male,Net Banking,3.6,Confirmed
+HB00156,G1030,2025-12-05,2026-02-01,UrbanNest,Bhubaneswar,East,Deluxe,Weekend Stay,Travel Agent,3,7,2800,10,22351.83,15464.07,6887.76,50,Female,Debit Card,4.3,Confirmed
+HB00157,G1178,2025-06-15,2025-07-02,CedarCrown,Ahmedabad,West,Standard,Business Stay,Travel Agent,3,2,1800,8,6441.95,4057.76,2384.19,58,Male,Credit Card,3.1,Confirmed
+HB00158,G1074,2025-04-17,2025-06-27,RoyalVista,Chennai,South,Premium,Weekend Stay,Mobile App,3,1,4200,0,8180.2,5851.86,2328.34,49,Male,Wallet,5,Confirmed
+HB00159,G1020,2025-01-09,2025-02-12,UrbanNest,Pune,West,Standard,Family Stay,Mobile App,4,5,1800,0,12309.36,6506.56,5802.8,61,Male,Debit Card,3.1,Completed
+HB00160,G1126,2025-11-18,2026-01-16,BlueHarbor,Chennai,South,Deluxe,Weekend Stay,Website,1,3,2800,0,7592.93,5871.96,1720.97,46,Male,UPI,3.3,Completed
+HB00161,G1186,2025-04-16,2025-04-24,BlueHarbor,Lucknow,North,Suite,Weekend Stay,Corporate,2,4,6500,8,30419.04,17081.83,13337.21,22,Female,UPI,4.7,Completed
+HB00162,G1182,2025-09-08,2025-11-30,UrbanNest,Ahmedabad,West,Deluxe,Family Stay,Mobile App,1,7,2800,0,20686.56,12170.31,8516.25,21,Female,Credit Card,4.5,Confirmed
+HB00163,G1049,2025-08-16,2025-10-06,UrbanNest,Mumbai,West,Suite,Leisure Stay,Website,1,7,6500,8,47884.04,26332.06,21551.98,65,Female,Credit Card,4.7,Confirmed
+HB00164,G1086,2025-10-17,2026-01-07,CedarCrown,Delhi,North,Standard,Leisure Stay,Travel Agent,4,7,1800,0,18756.46,10978.94,7777.52,33,Male,UPI,3.7,Cancelled
+HB00165,G1017,2025-03-07,2025-05-01,RoyalVista,Guwahati,East,Standard,Business Stay,Mobile App,1,3,1800,12,5230.5,3240.53,1989.97,37,Female,Wallet,4.8,Confirmed
+HB00166,G1012,2025-04-17,2025-05-09,CedarCrown,Lucknow,North,Suite,Leisure Stay,Mobile App,1,7,6500,15,39669.46,22568.46,17101,39,Male,Net Banking,4.7,Confirmed
+HB00167,G1138,2025-06-18,2025-07-02,RoyalVista,Mumbai,West,Deluxe,Leisure Stay,Travel Agent,2,1,2800,0,6018.36,3318.48,2699.88,32,Female,Debit Card,3.5,Cancelled
+HB00168,G1187,2025-08-30,2025-09-19,MapleStay,Mumbai,West,Suite,Leisure Stay,Travel Agent,4,1,6500,12,8563.85,5175.16,3388.69,28,Male,Net Banking,3.1,Confirmed
+HB00169,G1093,2025-03-15,2025-03-31,UrbanNest,Pune,West,Premium,Weekend Stay,Corporate,3,6,4200,5,24062.12,18105.48,5956.64,58,Other,Credit Card,3.9,Confirmed
+HB00170,G1109,2025-02-26,2025-03-08,CedarCrown,Ahmedabad,West,Standard,Business Stay,Corporate,3,7,1800,12,12486.6,9537.93,2948.67,25,Male,Wallet,4.8,Confirmed
+HB00171,G1160,2025-06-19,2025-08-21,RoyalVista,Hyderabad,South,Standard,Business Stay,Mobile App,3,1,1800,5,5570.7,4250.95,1319.75,64,Other,Wallet,3.1,Confirmed
+HB00172,G1152,2025-01-02,2025-03-06,BlueHarbor,Pune,West,Deluxe,Family Stay,Mobile App,3,1,2800,5,6421.68,4544.04,1877.64,34,Male,UPI,4.2,Completed
+HB00173,G1006,2025-06-26,2025-09-21,CedarCrown,Lucknow,North,Standard,Business Stay,Corporate,2,2,1800,5,4073.97,2541.88,1532.09,47,Other,Debit Card,3.5,Confirmed
+HB00174,G1052,2025-06-09,2025-06-14,GrandAura,Chennai,South,Standard,Family Stay,Mobile App,4,7,1800,0,16223.07,9410.59,6812.48,37,Other,Debit Card,3.7,Confirmed
+HB00175,G1175,2025-12-29,2026-01-06,UrbanNest,Pune,West,Standard,Weekend Stay,Travel Agent,1,1,1800,12,1937.91,1404.14,533.77,62,Other,Credit Card,4.4,Confirmed
+HB00176,G1089,2025-12-20,2026-01-17,UrbanNest,Kolkata,East,Standard,Weekend Stay,Mobile App,1,4,1800,5,8330.8,5923.96,2406.84,38,Other,Net Banking,4.7,Completed
+HB00177,G1073,2025-10-16,2025-10-24,RoyalVista,Lucknow,North,Deluxe,Leisure Stay,Website,1,3,2800,0,9164.57,6410.1,2754.47,53,Female,Credit Card,4.4,Cancelled
+HB00178,G1069,2025-05-18,2025-05-23,UrbanNest,Hyderabad,South,Deluxe,Family Stay,Mobile App,1,6,2800,15,18395.55,14169.91,4225.64,23,Female,Net Banking,3.4,Confirmed
+HB00179,G1155,2025-07-14,2025-10-03,GrandAura,Guwahati,East,Deluxe,Weekend Stay,Travel Agent,4,3,2800,0,12101.89,9195.52,2906.37,42,Female,UPI,3.2,Confirmed
+HB00180,G1128,2025-08-28,2025-09-14,GrandAura,Lucknow,North,Standard,Family Stay,Website,1,6,1800,0,10452.33,5536.27,4916.06,32,Male,Wallet,3.4,Confirmed
+HB00181,G1070,2025-10-22,2025-11-20,MapleStay,Ahmedabad,West,Premium,Weekend Stay,Travel Agent,4,3,4200,10,13618.04,8040.52,5577.52,41,Female,UPI,4.6,Confirmed
+HB00182,G1032,2025-06-02,2025-06-30,BlueHarbor,Pune,West,Deluxe,Family Stay,Website,2,5,2800,0,18738.13,12037.61,6700.52,58,Other,UPI,3.2,Confirmed
+HB00183,G1142,2025-11-28,2025-12-02,BlueHarbor,Guwahati,East,Suite,Weekend Stay,Website,4,5,6500,5,39223.72,23361.22,15862.5,40,Male,Credit Card,4.7,Cancelled
+HB00184,G1129,2025-06-22,2025-09-15,RoyalVista,Chennai,South,Standard,Business Stay,Travel Agent,4,6,1800,0,16647.18,10418.31,6228.87,62,Other,UPI,3.8,Confirmed
+HB00185,G1002,2025-06-22,2025-07-11,UrbanNest,Lucknow,North,Deluxe,Business Stay,Mobile App,4,4,2800,8,14659.23,8982.63,5676.6,53,Other,Credit Card,4,Confirmed
+HB00186,G1142,2025-03-11,2025-04-05,MapleStay,Bengaluru,South,Standard,Leisure Stay,Travel Agent,4,4,1800,8,11014.53,5847.82,5166.71,40,Male,Credit Card,4.4,Confirmed
+HB00187,G1151,2025-08-01,2025-10-30,RoyalVista,Ahmedabad,West,Deluxe,Leisure Stay,Corporate,2,1,2800,12,3763.56,2432.49,1331.07,38,Male,UPI,4.8,Confirmed
+HB00188,G1044,2025-05-12,2025-07-31,MapleStay,Hyderabad,South,Standard,Family Stay,Travel Agent,2,1,1800,0,3417.72,2314.66,1103.06,27,Other,Credit Card,4.2,Completed
+HB00189,G1159,2025-04-11,2025-05-05,MapleStay,Bengaluru,South,Premium,Business Stay,Website,3,2,4200,10,7746.81,5995.75,1751.06,43,Other,Wallet,3,Confirmed
+HB00190,G1117,2025-09-06,2025-10-21,UrbanNest,Ahmedabad,West,Premium,Leisure Stay,Website,3,7,4200,5,32992.23,24282.62,8709.61,50,Other,Debit Card,3.4,Completed
+HB00191,G1188,2025-10-25,2026-01-07,BlueHarbor,Kolkata,East,Deluxe,Weekend Stay,Travel Agent,4,6,2800,5,19722.12,11919.44,7802.68,64,Other,Debit Card,3.6,Completed
+HB00192,G1083,2025-09-15,2025-11-08,RoyalVista,Bhubaneswar,East,Standard,Weekend Stay,Website,2,3,1800,12,6305.19,3904.19,2401,21,Female,Net Banking,3.6,Completed
+HB00193,G1184,2025-06-11,2025-06-13,RoyalVista,Pune,West,Standard,Family Stay,Mobile App,4,4,1800,8,10367.67,7297.7,3069.97,21,Male,Net Banking,4.1,Confirmed
+HB00194,G1013,2025-08-06,2025-09-15,RoyalVista,Chennai,South,Deluxe,Family Stay,Corporate,3,1,2800,10,5601.88,3090.22,2511.66,49,Male,Debit Card,4,Confirmed
+HB00195,G1036,2025-01-16,2025-03-12,UrbanNest,Jaipur,North,Deluxe,Business Stay,Website,1,6,2800,15,14404.75,8506.14,5898.61,46,Other,UPI,3.1,Cancelled
+HB00196,G1084,2025-03-04,2025-04-07,MapleStay,Ahmedabad,West,Standard,Leisure Stay,Travel Agent,1,6,1800,5,11636.98,7530.19,4106.79,58,Other,UPI,3.6,Confirmed
+HB00197,G1172,2025-09-29,2025-11-18,UrbanNest,Chennai,South,Suite,Weekend Stay,Travel Agent,4,1,6500,0,11089.77,6078.61,5011.16,27,Other,Net Banking,4.8,Confirmed
+HB00198,G1064,2025-12-21,2026-03-20,BlueHarbor,Jaipur,North,Standard,Business Stay,Mobile App,3,1,1800,0,4719.45,3429.38,1290.07,33,Female,Debit Card,3.9,Confirmed
+HB00199,G1004,2025-07-09,2025-08-19,MapleStay,Lucknow,North,Deluxe,Business Stay,Travel Agent,1,3,2800,10,8042.34,5497.46,2544.88,35,Other,Credit Card,3.2,Confirmed
+HB00200,G1035,2025-06-11,2025-06-25,GrandAura,Lucknow,North,Suite,Weekend Stay,Travel Agent,4,6,6500,15,39353.12,24555.12,14798,59,Female,Wallet,3.2,Cancelled
+HB00201,G1142,2025-05-13,2025-05-25,MapleStay,Bengaluru,South,Suite,Family Stay,Corporate,1,6,6500,5,36149.87,23631.89,12517.98,40,Male,Wallet,4.2,Completed
+HB00202,G1126,2025-10-27,2025-12-10,UrbanNest,Mumbai,West,Deluxe,Family Stay,Corporate,4,1,2800,5,8490.54,6457.07,2033.47,46,Male,Debit Card,4.4,Confirmed
+HB00203,G1145,2025-06-26,2025-08-29,MapleStay,Jaipur,North,Standard,Leisure Stay,Corporate,3,2,1800,0,4624.71,3143.48,1481.23,52,Female,Wallet,4.8,Confirmed
+HB00204,G1117,2025-07-27,2025-10-19,GrandAura,Hyderabad,South,Standard,Business Stay,Website,4,5,1800,0,15844.96,9365.65,6479.31,50,Other,Debit Card,4.6,Confirmed
+HB00205,G1094,2025-08-27,2025-10-01,CedarCrown,Hyderabad,South,Deluxe,Business Stay,Mobile App,4,2,2800,0,8803.59,5186.11,3617.48,52,Other,Credit Card,3.2,Confirmed
+HB00206,G1061,2025-03-30,2025-06-02,RoyalVista,Kolkata,East,Deluxe,Family Stay,Mobile App,4,1,2800,10,6581.38,4139.73,2441.65,62,Other,Credit Card,3.1,Cancelled
+HB00207,G1068,2025-03-08,2025-05-09,GrandAura,Lucknow,North,Premium,Family Stay,Travel Agent,1,1,4200,5,5873.33,4467.87,1405.46,56,Other,UPI,4,Completed
+HB00208,G1196,2025-03-31,2025-06-12,RoyalVista,Ahmedabad,West,Deluxe,Business Stay,Mobile App,4,7,2800,10,25026.54,13327.74,11698.8,59,Female,UPI,4.4,Cancelled
+HB00209,G1218,2025-05-15,2025-08-06,MapleStay,Pune,West,Standard,Weekend Stay,Mobile App,3,4,1800,5,10491.72,5466.13,5025.59,59,Other,UPI,4.8,Confirmed
+HB00210,G1066,2025-12-12,2026-01-04,BlueHarbor,Mumbai,West,Standard,Family Stay,Travel Agent,4,2,1800,10,5602.79,3159.45,2443.34,50,Other,UPI,4.9,Confirmed
+HB00211,G1108,2025-04-18,2025-04-29,RoyalVista,Pune,West,Deluxe,Weekend Stay,Mobile App,2,2,2800,8,6113.42,3933.56,2179.86,27,Female,Net Banking,4.3,Confirmed
+HB00212,G1065,2025-08-06,2025-09-23,CedarCrown,Ahmedabad,West,Standard,Leisure Stay,Travel Agent,1,1,1800,15,2309.62,1433.42,876.2,65,Female,Net Banking,3.2,Confirmed
+HB00213,G1215,2025-02-20,2025-04-05,BlueHarbor,Lucknow,North,Deluxe,Weekend Stay,Website,1,7,2800,12,20303.72,15273.38,5030.34,28,Male,Wallet,4.5,Confirmed
+HB00214,G1051,2025-04-06,2025-07-04,GrandAura,Lucknow,North,Standard,Business Stay,Travel Agent,2,3,1800,5,7081.02,4142.05,2938.97,66,Other,Debit Card,4.5,Confirmed
+HB00215,G1002,2025-02-28,2025-05-29,UrbanNest,Bhubaneswar,East,Standard,Family Stay,Mobile App,1,3,1800,15,5827.13,3629.91,2197.22,53,Other,Credit Card,3.4,Confirmed
+HB00216,G1181,2025-09-29,2025-10-18,CedarCrown,Bhubaneswar,East,Deluxe,Leisure Stay,Corporate,3,2,2800,0,9090.16,6699.83,2390.33,37,Male,Net Banking,3.3,Completed
+HB00217,G1038,2025-03-13,2025-04-04,BlueHarbor,Hyderabad,South,Deluxe,Business Stay,Corporate,1,7,2800,12,17102.69,10331.46,6771.23,57,Female,Credit Card,3.5,Confirmed
+HB00218,G1194,2025-04-08,2025-05-22,MapleStay,Mumbai,West,Standard,Family Stay,Corporate,1,5,1800,5,10539.66,6152.17,4387.49,46,Female,Wallet,4.1,Confirmed
+HB00219,G1154,2025-10-26,2025-10-30,UrbanNest,Jaipur,North,Suite,Family Stay,Travel Agent,2,5,6500,8,37189.73,22954.42,14235.31,50,Other,UPI,3.5,Confirmed
+HB00220,G1101,2025-01-26,2025-03-05,MapleStay,Hyderabad,South,Deluxe,Business Stay,Corporate,3,5,2800,0,16309.8,11096.84,5212.96,47,Other,Wallet,3.6,Confirmed
+HB00221,G1106,2025-07-09,2025-08-14,MapleStay,Bengaluru,South,Standard,Weekend Stay,Mobile App,2,2,1800,0,4658.16,3331.7,1326.46,54,Male,Debit Card,4.8,Completed
+HB00222,G1031,2025-03-03,2025-04-16,GrandAura,Bhubaneswar,East,Standard,Business Stay,Mobile App,1,1,1800,5,2788.35,1637.23,1151.12,26,Female,Credit Card,4.7,Confirmed
+HB00223,G1186,2025-10-23,2026-01-08,UrbanNest,Chennai,South,Deluxe,Weekend Stay,Travel Agent,2,6,2800,8,16681.32,11327.1,5354.22,22,Female,Net Banking,3.5,Confirmed
+HB00224,G1152,2025-12-26,2026-03-02,BlueHarbor,Jaipur,North,Standard,Leisure Stay,Corporate,3,3,1800,8,7571.96,4239.69,3332.27,34,Male,UPI,4.9,Confirmed
+HB00225,G1053,2025-10-17,2025-10-31,RoyalVista,Pune,West,Premium,Leisure Stay,Travel Agent,1,3,4200,8,14469.59,11211.74,3257.85,46,Other,UPI,3.5,Confirmed
+HB00226,G1099,2025-11-26,2025-12-28,CedarCrown,Guwahati,East,Standard,Weekend Stay,Corporate,1,2,1800,12,3940.33,2126.08,1814.25,65,Other,Debit Card,4.8,Confirmed
+HB00227,G1006,2025-09-13,2025-11-09,BlueHarbor,Kolkata,East,Standard,Weekend Stay,Travel Agent,4,6,1800,5,11848.74,7633.79,4214.95,47,Other,Debit Card,4.8,Cancelled
+HB00228,G1166,2025-09-12,2025-11-08,BlueHarbor,Delhi,North,Suite,Family Stay,Website,2,4,6500,0,31714.1,19369.35,12344.75,57,Female,UPI,4.3,Confirmed
+HB00229,G1166,2025-10-04,2025-12-26,BlueHarbor,Delhi,North,Premium,Family Stay,Corporate,3,4,4200,0,21547.98,14445.92,7102.06,57,Female,Debit Card,4.4,Confirmed
+HB00230,G1063,2025-01-27,2025-03-02,UrbanNest,Jaipur,North,Premium,Weekend Stay,Mobile App,4,5,4200,0,28901.95,22039.73,6862.22,52,Female,Debit Card,3.2,Confirmed
+HB00231,G1167,2025-04-21,2025-06-10,UrbanNest,Chennai,South,Premium,Business Stay,Travel Agent,1,2,4200,10,9729.17,6135.62,3593.55,57,Female,Net Banking,4.2,Confirmed
+HB00232,G1081,2025-06-28,2025-07-24,GrandAura,Bhubaneswar,East,Premium,Leisure Stay,Travel Agent,2,6,4200,10,23847.9,18116.92,5730.98,30,Female,Debit Card,3.3,Confirmed
+HB00233,G1170,2025-06-10,2025-07-19,CedarCrown,Chennai,South,Standard,Leisure Stay,Corporate,4,4,1800,0,10781.41,5702.69,5078.72,37,Male,Debit Card,4.8,Completed
+HB00234,G1200,2025-09-20,2025-11-03,MapleStay,Hyderabad,South,Deluxe,Family Stay,Website,2,7,2800,5,20790.32,15066.53,5723.79,64,Female,UPI,4.9,Completed
+HB00235,G1160,2025-05-03,2025-07-29,BlueHarbor,Lucknow,North,Deluxe,Family Stay,Corporate,2,7,2800,0,20969.22,12274.02,8695.2,64,Other,Debit Card,3.5,Cancelled
+HB00236,G1057,2025-02-05,2025-04-18,CedarCrown,Jaipur,North,Deluxe,Weekend Stay,Travel Agent,3,6,2800,10,18231.11,13386.75,4844.36,46,Female,Credit Card,4,Confirmed
+HB00237,G1185,2025-10-14,2025-10-23,CedarCrown,Mumbai,West,Standard,Weekend Stay,Corporate,1,5,1800,12,9068.74,6650.09,2418.65,27,Male,UPI,3.3,Cancelled
+HB00238,G1209,2025-05-10,2025-07-26,BlueHarbor,Delhi,North,Suite,Family Stay,Travel Agent,2,2,6500,8,12289.26,9385.18,2904.08,41,Other,Net Banking,4.7,Confirmed
+HB00239,G1114,2025-05-11,2025-06-21,RoyalVista,Kolkata,East,Premium,Business Stay,Mobile App,2,7,4200,10,33781.68,19313.33,14468.35,64,Female,Wallet,4.7,Confirmed
+HB00240,G1220,2025-06-14,2025-07-12,CedarCrown,Hyderabad,South,Standard,Weekend Stay,Travel Agent,3,3,1800,12,6823.73,4528.67,2295.06,22,Female,Net Banking,4.9,Confirmed
+HB00241,G1149,2025-10-02,2025-12-29,RoyalVista,Chennai,South,Premium,Leisure Stay,Corporate,2,7,4200,0,37578.82,27927.02,9651.8,49,Male,Net Banking,3.3,Confirmed
+HB00242,G1187,2025-01-18,2025-01-23,MapleStay,Ahmedabad,West,Deluxe,Business Stay,Travel Agent,4,6,2800,5,18281.63,10297.12,7984.51,28,Male,Debit Card,4.7,Confirmed
+HB00243,G1120,2025-08-26,2025-10-30,GrandAura,Kolkata,East,Standard,Leisure Stay,Corporate,1,3,1800,0,7680.84,5313.52,2367.32,54,Male,UPI,4.3,Confirmed
+HB00244,G1204,2025-06-21,2025-08-30,GrandAura,Bhubaneswar,East,Deluxe,Leisure Stay,Travel Agent,3,3,2800,10,8491.45,5432.83,3058.62,48,Male,UPI,3.7,Confirmed
+HB00245,G1008,2025-08-03,2025-10-12,CedarCrown,Delhi,North,Standard,Weekend Stay,Travel Agent,3,4,1800,0,9809.73,6031.14,3778.59,52,Other,Wallet,4,Confirmed
+HB00246,G1050,2025-05-27,2025-06-06,RoyalVista,Mumbai,West,Premium,Leisure Stay,Corporate,3,4,4200,0,22508.51,14552.62,7955.89,64,Female,Credit Card,3.8,Confirmed
+HB00247,G1049,2025-01-28,2025-04-10,CedarCrown,Guwahati,East,Premium,Weekend Stay,Corporate,2,6,4200,5,30153.43,22286.06,7867.37,65,Female,Credit Card,4.1,Completed
+HB00248,G1122,2025-01-01,2025-01-21,CedarCrown,Lucknow,North,Deluxe,Family Stay,Website,2,5,2800,0,17344.17,12725.69,4618.48,42,Female,Credit Card,4.6,Confirmed
+HB00249,G1014,2025-11-20,2026-01-19,BlueHarbor,Delhi,North,Suite,Leisure Stay,Travel Agent,3,5,6500,0,40008.41,25396.01,14612.4,64,Female,UPI,4.4,Confirmed
+HB00250,G1092,2025-05-28,2025-06-02,GrandAura,Delhi,North,Standard,Family Stay,Website,2,3,1800,15,6547.98,4712.58,1835.4,41,Other,UPI,4.3,Confirmed
+HB00251,G1181,2025-11-23,2026-01-26,UrbanNest,Pune,West,Standard,Weekend Stay,Travel Agent,3,3,1800,5,9854.05,7367.29,2486.76,37,Male,UPI,3.2,Confirmed
+HB00252,G1080,2025-02-21,2025-04-21,CedarCrown,Lucknow,North,Deluxe,Business Stay,Website,3,4,2800,5,12847.02,7165.8,5681.22,68,Female,Debit Card,4.8,Cancelled
+HB00253,G1158,2025-05-13,2025-05-29,RoyalVista,Hyderabad,South,Deluxe,Business Stay,Mobile App,4,4,2800,12,13052.31,8633.75,4418.56,43,Male,Wallet,4.8,Confirmed
+HB00254,G1140,2025-06-14,2025-09-12,RoyalVista,Chennai,South,Deluxe,Family Stay,Travel Agent,1,6,2800,8,19139.93,11606.19,7533.74,55,Female,Net Banking,3.5,Confirmed
+HB00255,G1067,2025-06-20,2025-09-12,BlueHarbor,Lucknow,North,Deluxe,Weekend Stay,Website,4,1,2800,15,6704.78,4673.11,2031.67,52,Female,Debit Card,4,Cancelled
+HB00256,G1181,2025-06-27,2025-07-13,MapleStay,Pune,West,Deluxe,Weekend Stay,Travel Agent,2,3,2800,12,9226.36,6715.18,2511.18,37,Male,Net Banking,4.1,Confirmed
+HB00257,G1038,2025-03-19,2025-05-12,UrbanNest,Lucknow,North,Deluxe,Leisure Stay,Travel Agent,3,5,2800,0,18120.59,11793.8,6326.79,57,Female,UPI,3.5,Confirmed
+HB00258,G1216,2025-12-28,2026-02-14,BlueHarbor,Delhi,North,Standard,Leisure Stay,Travel Agent,1,3,1800,10,4874.39,3785.44,1088.95,23,Male,Debit Card,4,Cancelled
+HB00259,G1149,2025-08-19,2025-10-07,BlueHarbor,Bengaluru,South,Deluxe,Family Stay,Corporate,2,3,2800,12,9511.03,6085.35,3425.68,49,Male,Credit Card,3.2,Cancelled
+HB00260,G1133,2025-11-27,2026-01-30,UrbanNest,Mumbai,West,Premium,Family Stay,Website,2,7,4200,5,34810.14,19049.09,15761.05,64,Male,Credit Card,4,Completed
+HB00261,G1115,2025-05-26,2025-07-12,BlueHarbor,Bengaluru,South,Premium,Business Stay,Website,3,6,4200,10,23275.65,16566.97,6708.68,49,Female,UPI,4.1,Confirmed
+HB00262,G1146,2025-02-13,2025-05-05,RoyalVista,Guwahati,East,Deluxe,Leisure Stay,Website,2,1,2800,0,3359.73,2074.29,1285.44,39,Female,Debit Card,3.9,Cancelled
+HB00263,G1137,2025-08-01,2025-09-18,CedarCrown,Guwahati,East,Standard,Business Stay,Website,4,6,1800,0,14406.05,10628.93,3777.12,31,Other,Net Banking,3.6,Confirmed
+HB00264,G1211,2025-04-06,2025-07-03,UrbanNest,Ahmedabad,West,Standard,Leisure Stay,Mobile App,3,4,1800,15,8002.29,6210.43,1791.86,42,Male,Credit Card,3.9,Confirmed
+HB00265,G1005,2025-08-30,2025-10-02,MapleStay,Chennai,South,Deluxe,Weekend Stay,Mobile App,2,1,2800,15,4874.96,3108.21,1766.75,60,Other,Wallet,3.4,Cancelled
+HB00266,G1054,2025-05-01,2025-05-12,MapleStay,Pune,West,Standard,Business Stay,Website,3,2,1800,5,6591.39,4266.39,2325,40,Other,Credit Card,3.7,Completed
+HB00267,G1131,2025-07-06,2025-08-10,UrbanNest,Chennai,South,Deluxe,Weekend Stay,Corporate,1,6,2800,15,14768.26,8645.06,6123.2,62,Male,Wallet,4.1,Confirmed
+HB00268,G1051,2025-06-08,2025-08-24,GrandAura,Kolkata,East,Premium,Leisure Stay,Travel Agent,1,7,4200,5,34290.56,18070.75,16219.81,66,Other,Net Banking,3.9,Confirmed
+HB00269,G1114,2025-03-30,2025-04-15,BlueHarbor,Ahmedabad,West,Standard,Weekend Stay,Corporate,3,4,1800,12,8392.82,5572.59,2820.23,64,Female,Net Banking,4,Completed
+HB00270,G1034,2025-01-21,2025-03-02,MapleStay,Ahmedabad,West,Standard,Weekend Stay,Corporate,2,4,1800,12,8859.24,6801.71,2057.53,48,Other,UPI,3.3,Cancelled
+HB00271,G1051,2025-08-22,2025-10-17,GrandAura,Delhi,North,Deluxe,Family Stay,Mobile App,3,4,2800,0,16257.32,8638.72,7618.6,66,Other,UPI,4.3,Confirmed
+HB00272,G1035,2025-08-06,2025-09-10,RoyalVista,Mumbai,West,Deluxe,Business Stay,Corporate,3,1,2800,10,4208.19,2446.06,1762.13,59,Female,UPI,4.5,Confirmed
+HB00273,G1005,2025-10-06,2025-10-08,UrbanNest,Bhubaneswar,East,Deluxe,Leisure Stay,Travel Agent,1,1,2800,12,3134.23,1651.93,1482.3,60,Other,UPI,4.1,Completed
+HB00274,G1002,2025-09-20,2025-11-24,RoyalVista,Jaipur,North,Standard,Family Stay,Mobile App,2,4,1800,5,10094.26,7418.23,2676.03,53,Other,Net Banking,4.5,Confirmed
+HB00275,G1028,2025-10-11,2025-10-19,MapleStay,Kolkata,East,Standard,Business Stay,Corporate,4,4,1800,0,8271.98,5243.5,3028.48,22,Other,Credit Card,3.8,Confirmed
+HB00276,G1047,2025-12-22,2026-02-08,GrandAura,Mumbai,West,Standard,Weekend Stay,Travel Agent,1,5,1800,15,9587.11,5923.11,3664,51,Male,UPI,3.5,Confirmed
+HB00277,G1029,2025-07-06,2025-08-21,RoyalVista,Pune,West,Premium,Weekend Stay,Mobile App,3,6,4200,0,28937.39,19118.58,9818.81,44,Female,Wallet,4,Completed
+HB00278,G1089,2025-03-09,2025-03-26,GrandAura,Mumbai,West,Standard,Weekend Stay,Mobile App,3,5,1800,0,10404.1,6320.68,4083.42,38,Other,Wallet,3.5,Confirmed
+HB00279,G1117,2025-02-24,2025-05-23,CedarCrown,Pune,West,Standard,Family Stay,Corporate,4,1,1800,15,4909,3567.84,1341.16,50,Other,Credit Card,5,Confirmed
+HB00280,G1023,2025-03-16,2025-03-18,CedarCrown,Mumbai,West,Premium,Leisure Stay,Mobile App,2,5,4200,8,20034.82,14392.51,5642.31,55,Female,Credit Card,3.1,Confirmed
+HB00281,G1220,2025-05-15,2025-05-21,GrandAura,Hyderabad,South,Deluxe,Family Stay,Corporate,2,1,2800,15,4447.15,2632.9,1814.25,22,Female,UPI,3,Completed
+HB00282,G1074,2025-10-26,2025-11-18,CedarCrown,Delhi,North,Deluxe,Weekend Stay,Corporate,4,6,2800,0,17286.06,13367,3919.06,49,Male,Net Banking,3.1,Confirmed
+HB00283,G1141,2025-08-26,2025-11-19,RoyalVista,Guwahati,East,Deluxe,Weekend Stay,Website,3,7,2800,8,23468.09,14275.4,9192.69,26,Female,UPI,3,Confirmed
+HB00284,G1040,2025-10-29,2025-12-11,BlueHarbor,Guwahati,East,Premium,Business Stay,Travel Agent,4,7,4200,12,29195.06,21790.87,7404.19,22,Other,Credit Card,3.9,Confirmed
+HB00285,G1047,2025-05-05,2025-07-23,UrbanNest,Ahmedabad,West,Premium,Business Stay,Website,4,2,4200,0,10334.38,6526.46,3807.92,51,Male,Net Banking,3.1,Confirmed
+HB00286,G1154,2025-05-26,2025-05-30,MapleStay,Mumbai,West,Premium,Family Stay,Website,2,4,4200,10,15662.52,8706.8,6955.72,50,Other,Wallet,4.8,Completed
+HB00287,G1024,2025-05-10,2025-07-10,RoyalVista,Hyderabad,South,Suite,Family Stay,Mobile App,4,6,6500,10,39020.39,24053.38,14967.01,39,Female,Debit Card,3.4,Confirmed
+HB00288,G1012,2025-12-04,2025-12-31,UrbanNest,Guwahati,East,Premium,Business Stay,Website,3,3,4200,15,14172.41,7796.98,6375.43,39,Male,Wallet,3.7,Confirmed
+HB00289,G1184,2025-07-29,2025-08-04,RoyalVista,Ahmedabad,West,Standard,Weekend Stay,Website,1,3,1800,12,5253.93,3718.1,1535.83,21,Male,Debit Card,4.9,Confirmed
+HB00290,G1155,2025-06-19,2025-07-28,BlueHarbor,Pune,West,Deluxe,Family Stay,Website,3,7,2800,0,28396.93,16597.57,11799.36,42,Female,Debit Card,3.1,Confirmed
+HB00291,G1170,2025-03-22,2025-05-27,GrandAura,Ahmedabad,West,Deluxe,Weekend Stay,Corporate,4,2,2800,8,9254.72,6257.14,2997.58,37,Male,Debit Card,3.2,Confirmed
+HB00292,G1055,2025-07-03,2025-07-23,UrbanNest,Chennai,South,Premium,Weekend Stay,Travel Agent,3,1,4200,10,6209.03,3398.16,2810.87,62,Other,Net Banking,3.7,Completed
+HB00293,G1101,2025-11-08,2025-11-18,MapleStay,Hyderabad,South,Premium,Weekend Stay,Travel Agent,4,3,4200,0,17808.37,13229.47,4578.9,47,Other,Net Banking,4.4,Confirmed
+HB00294,G1008,2025-08-29,2025-09-12,UrbanNest,Mumbai,West,Standard,Business Stay,Mobile App,1,5,1800,5,9202.41,6384.99,2817.42,52,Other,UPI,3.3,Cancelled
+HB00295,G1032,2025-11-28,2026-01-18,BlueHarbor,Jaipur,North,Premium,Weekend Stay,Website,2,6,4200,8,23301.67,15596.61,7705.06,58,Other,Debit Card,4,Confirmed
+HB00296,G1082,2025-09-08,2025-11-12,UrbanNest,Guwahati,East,Deluxe,Family Stay,Corporate,4,4,2800,12,12067.52,7200.62,4866.9,21,Male,Credit Card,5,Completed
+HB00297,G1105,2025-02-06,2025-03-26,GrandAura,Hyderabad,South,Standard,Leisure Stay,Website,4,1,1800,0,4910.52,3546.18,1364.34,45,Male,Debit Card,3.9,Completed
+HB00298,G1048,2025-02-21,2025-05-15,CedarCrown,Ahmedabad,West,Standard,Business Stay,Mobile App,1,1,1800,0,2437.18,1482.15,955.03,28,Other,Wallet,4.7,Confirmed
+HB00299,G1077,2025-10-09,2025-12-15,CedarCrown,Pune,West,Deluxe,Family Stay,Corporate,3,3,2800,12,11302.09,8716.73,2585.36,62,Female,Credit Card,4.4,Confirmed
+HB00300,G1187,2025-04-05,2025-04-20,GrandAura,Kolkata,East,Deluxe,Family Stay,Corporate,3,1,2800,10,4448.43,2645.02,1803.41,28,Male,Credit Card,3.8,Confirmed
+HB00301,G1048,2025-06-18,2025-07-29,GrandAura,Hyderabad,South,Deluxe,Family Stay,Mobile App,3,3,2800,5,9726.37,7222.54,2503.83,28,Other,Debit Card,4.8,Confirmed
+HB00302,G1061,2025-02-21,2025-03-22,MapleStay,Hyderabad,South,Premium,Weekend Stay,Website,1,1,4200,12,3722.21,2044.92,1677.29,62,Other,Credit Card,4.8,Confirmed
+HB00303,G1094,2025-10-17,2025-12-10,MapleStay,Kolkata,East,Deluxe,Business Stay,Mobile App,4,6,2800,15,20031.9,11041.03,8990.87,52,Other,Wallet,4.8,Confirmed
+HB00304,G1197,2025-02-17,2025-04-12,UrbanNest,Jaipur,North,Standard,Business Stay,Website,3,6,1800,5,13623.22,8062.01,5561.21,48,Other,Net Banking,4.6,Confirmed
+HB00305,G1001,2025-03-17,2025-04-28,RoyalVista,Guwahati,East,Standard,Family Stay,Travel Agent,3,5,1800,8,10337.38,7452.29,2885.09,28,Female,UPI,4.5,Confirmed
+HB00306,G1092,2025-06-30,2025-09-07,CedarCrown,Guwahati,East,Standard,Business Stay,Website,3,5,1800,15,8982.91,6403.03,2579.88,41,Other,Debit Card,4.4,Confirmed
+HB00307,G1089,2025-07-20,2025-09-19,BlueHarbor,Mumbai,West,Deluxe,Business Stay,Website,2,1,2800,5,4322.89,3304.97,1017.92,38,Other,Debit Card,4,Completed
+HB00308,G1116,2025-02-22,2025-05-17,GrandAura,Lucknow,North,Deluxe,Weekend Stay,Website,4,3,2800,0,12255.36,8637.57,3617.79,28,Female,Wallet,4.5,Confirmed
+HB00309,G1110,2025-06-29,2025-07-16,GrandAura,Hyderabad,South,Standard,Leisure Stay,Website,2,4,1800,0,8043.62,6257.78,1785.84,43,Other,UPI,4.7,Confirmed
+HB00310,G1021,2025-11-21,2025-12-19,BlueHarbor,Guwahati,East,Standard,Weekend Stay,Travel Agent,2,3,1800,5,7126.32,4657.87,2468.45,67,Female,Credit Card,4.3,Confirmed
+HB00311,G1127,2025-10-07,2025-12-26,RoyalVista,Pune,West,Deluxe,Leisure Stay,Website,3,3,2800,12,11319.71,8793.49,2526.22,33,Other,UPI,5,Cancelled
+HB00312,G1179,2025-11-13,2026-01-27,UrbanNest,Hyderabad,South,Standard,Leisure Stay,Corporate,4,6,1800,15,8911.12,5252.96,3658.16,39,Female,Debit Card,4.8,Cancelled
+HB00313,G1171,2025-02-25,2025-05-19,RoyalVista,Chennai,South,Standard,Business Stay,Website,1,1,1800,0,3104.62,1685.15,1419.47,48,Male,UPI,3.9,Confirmed
+HB00314,G1027,2025-04-15,2025-06-27,RoyalVista,Jaipur,North,Deluxe,Weekend Stay,Travel Agent,1,3,2800,0,8898.9,5913.19,2985.71,57,Female,Debit Card,4.3,Confirmed
+HB00315,G1199,2025-12-27,2026-02-22,UrbanNest,Guwahati,East,Standard,Weekend Stay,Travel Agent,3,1,1800,0,5492.25,3623.29,1868.96,44,Other,Debit Card,4.1,Confirmed
+HB00316,G1137,2025-11-27,2026-01-29,RoyalVista,Ahmedabad,West,Standard,Family Stay,Mobile App,1,2,1800,10,4640.71,3211.78,1428.93,31,Other,Debit Card,4.8,Confirmed
+HB00317,G1095,2025-08-05,2025-10-23,RoyalVista,Jaipur,North,Standard,Business Stay,Travel Agent,3,7,1800,0,13905.14,10625.22,3279.92,67,Male,Credit Card,4.2,Cancelled
+HB00318,G1051,2025-07-28,2025-08-18,GrandAura,Guwahati,East,Standard,Business Stay,Corporate,4,4,1800,10,10765.2,5868.16,4897.04,66,Other,Credit Card,3.7,Completed
+HB00319,G1191,2025-12-13,2026-01-27,MapleStay,Guwahati,East,Suite,Business Stay,Corporate,3,6,6500,12,34311.39,20588.63,13722.76,59,Other,UPI,4.3,Completed
+HB00320,G1004,2025-10-08,2025-11-09,RoyalVista,Ahmedabad,West,Premium,Family Stay,Mobile App,3,3,4200,12,12985.14,7599.08,5386.06,35,Other,Net Banking,3.2,Cancelled
+HB00321,G1017,2025-01-04,2025-03-18,CedarCrown,Lucknow,North,Standard,Family Stay,Website,2,6,1800,15,12534.51,8629.04,3905.47,37,Female,Debit Card,4.9,Confirmed
+HB00322,G1146,2025-08-21,2025-11-05,CedarCrown,Mumbai,West,Standard,Leisure Stay,Corporate,3,5,1800,10,10520.34,7864.21,2656.13,39,Female,Net Banking,4.1,Confirmed
+HB00323,G1123,2025-03-25,2025-04-18,RoyalVista,Bhubaneswar,East,Standard,Weekend Stay,Travel Agent,4,1,1800,12,6058.08,3825.22,2232.86,59,Male,UPI,4.4,Cancelled
+HB00324,G1061,2025-05-20,2025-07-14,UrbanNest,Jaipur,North,Standard,Weekend Stay,Corporate,1,2,1800,8,3222.81,2335.27,887.54,62,Other,UPI,4.4,Confirmed
+HB00325,G1023,2025-10-02,2025-11-19,RoyalVista,Ahmedabad,West,Premium,Leisure Stay,Corporate,4,7,4200,5,29412.35,22815.23,6597.12,55,Female,Net Banking,3.1,Completed
+HB00326,G1193,2025-06-20,2025-07-25,BlueHarbor,Mumbai,West,Deluxe,Family Stay,Website,1,7,2800,12,17164.83,11898.67,5266.16,60,Male,Wallet,4.1,Confirmed
+HB00327,G1005,2025-12-21,2025-12-24,GrandAura,Hyderabad,South,Standard,Business Stay,Mobile App,3,7,1800,0,18032.37,13880.45,4151.92,60,Other,Credit Card,4.1,Confirmed
+HB00328,G1013,2025-12-20,2025-12-31,BlueHarbor,Ahmedabad,West,Standard,Family Stay,Mobile App,4,1,1800,8,5069.87,3908.54,1161.33,49,Male,Wallet,4.8,Confirmed
+HB00329,G1017,2025-01-03,2025-02-17,UrbanNest,Kolkata,East,Deluxe,Leisure Stay,Website,2,2,2800,0,7267.08,4663.81,2603.27,37,Female,UPI,3.5,Cancelled
+HB00330,G1213,2025-01-25,2025-02-06,RoyalVista,Guwahati,East,Deluxe,Leisure Stay,Travel Agent,3,7,2800,8,24468.87,15609.6,8859.27,67,Male,Credit Card,3.5,Completed
+HB00331,G1099,2025-07-14,2025-07-29,GrandAura,Hyderabad,South,Standard,Family Stay,Website,4,4,1800,15,7342.98,4534.53,2808.45,65,Other,Debit Card,3.1,Confirmed
+HB00332,G1108,2025-03-07,2025-05-13,BlueHarbor,Lucknow,North,Suite,Weekend Stay,Travel Agent,3,6,6500,15,38995.98,25980.78,13015.2,27,Female,UPI,3.2,Completed
+HB00333,G1106,2025-11-15,2025-12-03,CedarCrown,Bengaluru,South,Standard,Business Stay,Corporate,2,5,1800,0,10541.88,7918.9,2622.98,54,Male,UPI,3.5,Confirmed
+HB00334,G1036,2025-06-21,2025-06-29,GrandAura,Ahmedabad,West,Standard,Weekend Stay,Mobile App,1,2,1800,10,5137.06,3667.94,1469.12,46,Other,Net Banking,4.4,Completed
+HB00335,G1167,2025-10-26,2025-11-09,BlueHarbor,Delhi,North,Suite,Leisure Stay,Travel Agent,1,4,6500,12,28622.77,19905.95,8716.82,57,Female,Credit Card,3.4,Confirmed
+HB00336,G1017,2025-05-22,2025-08-07,CedarCrown,Delhi,North,Standard,Business Stay,Mobile App,3,1,1800,5,4104.66,2538.4,1566.26,37,Female,Credit Card,3.7,Completed
+HB00337,G1115,2025-05-23,2025-05-24,UrbanNest,Bengaluru,South,Suite,Business Stay,Website,4,4,6500,15,25989.93,16495.2,9494.73,49,Female,Wallet,3.2,Cancelled
+HB00338,G1070,2025-10-07,2025-12-06,UrbanNest,Guwahati,East,Standard,Business Stay,Travel Agent,3,3,1800,5,8167.45,6072.68,2094.77,41,Female,Credit Card,4.2,Confirmed
+HB00339,G1192,2025-09-25,2025-10-14,UrbanNest,Pune,West,Standard,Weekend Stay,Website,2,4,1800,12,7370.16,3884.27,3485.89,62,Other,Credit Card,3.5,Confirmed
+HB00340,G1012,2025-10-24,2025-12-17,RoyalVista,Hyderabad,South,Premium,Weekend Stay,Travel Agent,3,7,4200,15,28331.6,21158.48,7173.12,39,Male,UPI,4.4,Confirmed
+HB00341,G1106,2025-12-15,2026-03-10,RoyalVista,Mumbai,West,Standard,Weekend Stay,Corporate,1,7,1800,10,14344.71,9408.56,4936.15,54,Male,Credit Card,4,Cancelled
+HB00342,G1075,2025-11-14,2025-11-19,UrbanNest,Hyderabad,South,Premium,Family Stay,Travel Agent,2,4,4200,10,15393,8448.8,6944.2,48,Other,Credit Card,3.2,Confirmed
+HB00343,G1081,2025-08-18,2025-09-28,UrbanNest,Bengaluru,South,Deluxe,Family Stay,Travel Agent,2,3,2800,8,7410.9,5676.47,1734.43,30,Female,UPI,3.5,Confirmed
+HB00344,G1208,2025-05-28,2025-06-13,RoyalVista,Bengaluru,South,Deluxe,Business Stay,Website,3,4,2800,12,11017.61,6181.17,4836.44,40,Female,Credit Card,4.7,Confirmed
+HB00345,G1022,2025-07-16,2025-09-16,MapleStay,Kolkata,East,Suite,Leisure Stay,Mobile App,3,4,6500,15,28647.9,17903.08,10744.82,26,Other,Net Banking,5,Confirmed
+HB00346,G1047,2025-01-29,2025-03-27,UrbanNest,Jaipur,North,Standard,Leisure Stay,Mobile App,3,4,1800,0,9129,6515.2,2613.8,51,Male,UPI,3.9,Cancelled
+HB00347,G1118,2025-07-26,2025-09-12,MapleStay,Bhubaneswar,East,Standard,Leisure Stay,Corporate,1,1,1800,0,2683.48,2075.62,607.86,60,Male,Credit Card,4.5,Cancelled
+HB00348,G1206,2025-10-16,2025-12-05,RoyalVista,Bengaluru,South,Premium,Family Stay,Corporate,1,4,4200,8,16701.68,9945.37,6756.31,42,Female,Wallet,4.6,Confirmed
+HB00349,G1214,2025-09-26,2025-10-25,MapleStay,Mumbai,West,Standard,Weekend Stay,Website,4,3,1800,12,8795.37,6260.55,2534.82,31,Other,Credit Card,3.3,Cancelled
+HB00350,G1217,2025-06-04,2025-07-21,BlueHarbor,Mumbai,West,Suite,Family Stay,Travel Agent,1,7,6500,5,47922.48,29333.03,18589.45,54,Female,Debit Card,4.2,Confirmed
+HB00351,G1052,2025-09-27,2025-11-11,MapleStay,Lucknow,North,Standard,Family Stay,Travel Agent,2,2,1800,0,4554.78,2869.09,1685.69,37,Other,Credit Card,4.1,Confirmed
+HB00352,G1176,2025-03-17,2025-03-21,UrbanNest,Guwahati,East,Deluxe,Family Stay,Travel Agent,2,3,2800,0,12841.39,9623.35,3218.04,27,Other,Credit Card,4.6,Confirmed
+HB00353,G1055,2025-12-27,2026-02-16,MapleStay,Mumbai,West,Standard,Family Stay,Website,4,2,1800,8,4570.61,2602.89,1967.72,62,Other,Credit Card,3.7,Cancelled
+HB00354,G1211,2025-03-03,2025-04-16,RoyalVista,Bengaluru,South,Standard,Weekend Stay,Mobile App,1,4,1800,8,6337.38,4376.54,1960.84,42,Male,Credit Card,4.7,Confirmed
+HB00355,G1024,2025-11-13,2026-01-11,UrbanNest,Delhi,North,Premium,Weekend Stay,Website,3,5,4200,8,20500.08,11475.46,9024.62,39,Female,Net Banking,3.7,Cancelled
+HB00356,G1211,2025-06-26,2025-07-06,RoyalVista,Pune,West,Standard,Leisure Stay,Mobile App,1,6,1800,10,12943.65,6773.02,6170.63,42,Male,Net Banking,3.8,Confirmed
+HB00357,G1183,2025-09-12,2025-10-10,CedarCrown,Bengaluru,South,Standard,Leisure Stay,Travel Agent,2,3,1800,8,5686.68,3602.09,2084.59,37,Female,Credit Card,3.7,Confirmed
+HB00358,G1218,2025-11-21,2025-12-20,GrandAura,Lucknow,North,Standard,Family Stay,Mobile App,1,1,1800,10,2608.79,1595.73,1013.06,59,Other,Debit Card,4.2,Confirmed
+HB00359,G1139,2025-08-22,2025-09-29,RoyalVista,Ahmedabad,West,Premium,Business Stay,Website,4,5,4200,5,25781.06,14451.68,11329.38,38,Female,Wallet,3.7,Completed
+HB00360,G1092,2025-04-25,2025-07-17,BlueHarbor,Kolkata,East,Suite,Business Stay,Corporate,1,4,6500,0,29780.83,18322.6,11458.23,41,Other,UPI,3.5,Completed
+HB00361,G1091,2025-05-05,2025-07-16,CedarCrown,Guwahati,East,Premium,Weekend Stay,Mobile App,2,7,4200,0,33263.7,20602.33,12661.37,30,Male,Debit Card,3.1,Confirmed
+HB00362,G1095,2025-02-20,2025-02-28,CedarCrown,Hyderabad,South,Standard,Family Stay,Travel Agent,2,6,1800,0,15356.77,10039.61,5317.16,67,Male,Net Banking,3.6,Completed
+HB00363,G1001,2025-01-26,2025-04-19,MapleStay,Delhi,North,Standard,Family Stay,Website,4,4,1800,10,9285.86,6671.86,2614,28,Female,UPI,3.3,Cancelled
+HB00364,G1001,2025-07-11,2025-08-23,CedarCrown,Lucknow,North,Suite,Family Stay,Corporate,4,6,6500,0,36631.37,28283.69,8347.68,28,Female,Debit Card,3.1,Cancelled
+HB00365,G1069,2025-02-09,2025-02-18,UrbanNest,Bhubaneswar,East,Deluxe,Leisure Stay,Mobile App,2,5,2800,5,18074.41,12236.82,5837.59,23,Female,Net Banking,3.4,Confirmed
+HB00366,G1125,2025-11-28,2025-12-13,MapleStay,Bhubaneswar,East,Deluxe,Family Stay,Mobile App,4,1,2800,5,4832.24,2639.81,2192.43,25,Other,Net Banking,4.7,Confirmed
+HB00367,G1093,2025-04-26,2025-06-27,CedarCrown,Chennai,South,Standard,Weekend Stay,Mobile App,2,4,1800,15,7417.82,4293.88,3123.94,58,Other,Credit Card,4.9,Confirmed
+HB00368,G1060,2025-11-09,2025-11-30,RoyalVista,Bhubaneswar,East,Premium,Business Stay,Mobile App,1,2,4200,0,10146.01,7201.98,2944.03,23,Male,Wallet,5,Confirmed
+HB00369,G1045,2025-08-07,2025-09-07,MapleStay,Chennai,South,Standard,Leisure Stay,Travel Agent,2,5,1800,15,10021.62,5922.47,4099.15,60,Female,UPI,3.4,Confirmed
+HB00370,G1060,2025-02-26,2025-04-13,GrandAura,Pune,West,Premium,Family Stay,Website,2,5,4200,8,24581.96,18112.38,6469.58,23,Male,Debit Card,3.1,Cancelled
+HB00371,G1106,2025-01-12,2025-02-21,GrandAura,Lucknow,North,Deluxe,Weekend Stay,Travel Agent,1,1,2800,10,3516.97,1899.81,1617.16,54,Male,Credit Card,4.6,Completed
+HB00372,G1021,2025-11-03,2026-01-08,MapleStay,Kolkata,East,Standard,Family Stay,Website,4,4,1800,10,9213.94,5474.31,3739.63,67,Female,UPI,4.7,Completed
+HB00373,G1198,2025-05-19,2025-05-20,RoyalVista,Bhubaneswar,East,Deluxe,Leisure Stay,Corporate,3,4,2800,8,13601.26,10110.17,3491.09,28,Other,Wallet,3,Confirmed
+HB00374,G1141,2025-06-26,2025-07-06,BlueHarbor,Bhubaneswar,East,Standard,Weekend Stay,Travel Agent,3,3,1800,12,6971.77,5266.1,1705.67,26,Female,Wallet,3.6,Confirmed
+HB00375,G1082,2025-08-31,2025-11-22,CedarCrown,Chennai,South,Standard,Family Stay,Corporate,2,2,1800,15,4386.49,3052.29,1334.2,21,Male,Wallet,4.2,Confirmed
+HB00376,G1028,2025-12-16,2025-12-27,GrandAura,Hyderabad,South,Deluxe,Weekend Stay,Website,2,7,2800,8,23252.68,12900.99,10351.69,22,Other,Debit Card,3.2,Confirmed
+HB00377,G1068,2025-05-27,2025-06-27,BlueHarbor,Kolkata,East,Standard,Business Stay,Mobile App,3,7,1800,15,13093.62,9379.29,3714.33,56,Other,Net Banking,3.7,Confirmed
+HB00378,G1048,2025-07-14,2025-10-08,UrbanNest,Kolkata,East,Standard,Business Stay,Travel Agent,4,3,1800,10,9043.84,6583.43,2460.41,28,Other,Debit Card,4.5,Confirmed
+HB00379,G1142,2025-10-02,2025-12-17,BlueHarbor,Lucknow,North,Deluxe,Business Stay,Website,2,1,2800,0,3957.12,2820.98,1136.14,40,Male,Credit Card,3.9,Cancelled
+HB00380,G1060,2025-12-03,2026-02-28,CedarCrown,Bhubaneswar,East,Standard,Business Stay,Website,2,1,1800,15,2955.05,1555.59,1399.46,23,Male,UPI,4.2,Confirmed
+HB00381,G1150,2025-04-28,2025-06-12,MapleStay,Bengaluru,South,Suite,Business Stay,Mobile App,2,3,6500,10,21880.15,13898.58,7981.57,54,Other,Debit Card,4.3,Confirmed
+HB00382,G1203,2025-10-11,2025-11-01,UrbanNest,Kolkata,East,Standard,Weekend Stay,Corporate,2,5,1800,0,9722.19,7507.87,2214.32,68,Other,UPI,3.1,Confirmed
+HB00383,G1050,2025-03-23,2025-06-18,GrandAura,Jaipur,North,Standard,Family Stay,Mobile App,4,6,1800,8,11557.42,8463.96,3093.46,64,Female,Debit Card,3.2,Cancelled
+HB00384,G1191,2025-04-18,2025-06-12,BlueHarbor,Delhi,North,Standard,Weekend Stay,Website,3,3,1800,15,8226.05,5907.77,2318.28,59,Other,UPI,4.5,Confirmed
+HB00385,G1026,2025-02-19,2025-04-14,CedarCrown,Guwahati,East,Standard,Leisure Stay,Corporate,4,5,1800,0,12598.86,7659.27,4939.59,66,Other,Credit Card,3.2,Confirmed
+HB00386,G1154,2025-08-01,2025-08-24,MapleStay,Lucknow,North,Deluxe,Business Stay,Travel Agent,1,2,2800,12,6654.05,4498.43,2155.62,50,Other,Debit Card,3.4,Completed
+HB00387,G1064,2025-08-09,2025-08-22,GrandAura,Chennai,South,Suite,Business Stay,Website,3,6,6500,15,40623.42,21453.56,19169.86,33,Female,Credit Card,3.4,Confirmed
+HB00388,G1090,2025-11-24,2025-12-07,CedarCrown,Bhubaneswar,East,Standard,Weekend Stay,Mobile App,4,2,1800,0,5421.89,4133.19,1288.7,61,Female,Net Banking,5,Confirmed
+HB00389,G1157,2025-05-16,2025-08-06,BlueHarbor,Bengaluru,South,Standard,Business Stay,Travel Agent,2,3,1800,0,9057.47,6990.26,2067.21,32,Male,Debit Card,4.2,Completed
+HB00390,G1218,2025-09-03,2025-11-20,MapleStay,Bengaluru,South,Premium,Business Stay,Website,4,6,4200,12,23296.8,15349.88,7946.92,59,Other,UPI,4.6,Confirmed
+HB00391,G1060,2025-11-07,2026-01-16,BlueHarbor,Bengaluru,South,Deluxe,Weekend Stay,Website,1,2,2800,0,7166.11,4997.13,2168.98,23,Male,Net Banking,4.6,Confirmed
+HB00392,G1146,2025-10-25,2025-11-20,CedarCrown,Guwahati,East,Standard,Family Stay,Travel Agent,1,1,1800,5,1910.13,1237.95,672.18,39,Female,Net Banking,4.4,Cancelled
+HB00393,G1041,2025-08-20,2025-09-18,CedarCrown,Pune,West,Premium,Family Stay,Mobile App,3,2,4200,0,9439.5,6829.05,2610.45,35,Male,Credit Card,4.4,Confirmed
+HB00394,G1036,2025-08-16,2025-09-29,UrbanNest,Jaipur,North,Premium,Weekend Stay,Website,2,1,4200,5,6613.29,4888.71,1724.58,46,Other,Credit Card,3.5,Completed
+HB00395,G1139,2025-06-01,2025-07-19,RoyalVista,Lucknow,North,Premium,Family Stay,Mobile App,3,6,4200,0,27393.87,16953.61,10440.26,38,Female,Wallet,3.3,Confirmed
+HB00396,G1051,2025-03-28,2025-06-18,MapleStay,Guwahati,East,Standard,Business Stay,Travel Agent,1,5,1800,0,9871.35,5998.1,3873.25,66,Other,UPI,3.7,Cancelled
+HB00397,G1075,2025-09-09,2025-11-12,GrandAura,Delhi,North,Deluxe,Weekend Stay,Travel Agent,1,6,2800,0,21743.22,14324.48,7418.74,48,Other,Debit Card,3.6,Confirmed
+HB00398,G1133,2025-06-30,2025-07-25,BlueHarbor,Ahmedabad,West,Deluxe,Leisure Stay,Website,1,6,2800,12,14317.09,10155.24,4161.85,64,Male,Wallet,3.8,Confirmed
+HB00399,G1024,2025-02-06,2025-04-16,BlueHarbor,Bhubaneswar,East,Premium,Weekend Stay,Corporate,1,3,4200,5,12230.55,9151.62,3078.93,39,Female,UPI,4,Cancelled
+HB00400,G1160,2025-09-03,2025-11-24,UrbanNest,Hyderabad,South,Standard,Family Stay,Travel Agent,3,4,1800,8,9839.83,5646.55,4193.28,64,Other,Debit Card,3.9,Completed
+HB00401,G1176,2025-04-03,2025-06-24,GrandAura,Guwahati,East,Premium,Leisure Stay,Website,1,1,4200,12,5272.79,3771.85,1500.94,27,Other,Credit Card,3,Cancelled
+HB00402,G1027,2025-02-09,2025-03-28,UrbanNest,Jaipur,North,Standard,Business Stay,Travel Agent,3,2,1800,5,5985.57,3714.24,2271.33,57,Female,Credit Card,5,Confirmed
+HB00403,G1190,2025-12-24,2026-02-25,RoyalVista,Lucknow,North,Standard,Weekend Stay,Mobile App,3,3,1800,5,9446.91,4991.41,4455.5,41,Female,Net Banking,4.7,Confirmed
+HB00404,G1210,2025-12-12,2026-01-09,UrbanNest,Bengaluru,South,Standard,Leisure Stay,Corporate,1,1,1800,5,2857.53,1756.19,1101.34,22,Other,Credit Card,4.8,Completed
+HB00405,G1219,2025-08-20,2025-11-05,BlueHarbor,Bhubaneswar,East,Deluxe,Leisure Stay,Mobile App,4,3,2800,5,9672.39,5584.81,4087.58,62,Female,UPI,5,Confirmed
+HB00406,G1081,2025-06-19,2025-06-23,CedarCrown,Chennai,South,Standard,Weekend Stay,Website,2,5,1800,8,11563.52,8589.32,2974.2,30,Female,Credit Card,3.2,Cancelled
+HB00407,G1185,2025-03-22,2025-05-30,RoyalVista,Jaipur,North,Deluxe,Leisure Stay,Travel Agent,4,5,2800,12,16063.93,8932.82,7131.11,27,Male,Credit Card,3.8,Confirmed
+HB00408,G1141,2025-11-16,2026-01-05,CedarCrown,Guwahati,East,Deluxe,Leisure Stay,Website,4,5,2800,5,19223.96,14927.03,4296.93,26,Female,Net Banking,4,Completed
+HB00409,G1166,2025-01-30,2025-02-09,BlueHarbor,Mumbai,West,Deluxe,Business Stay,Mobile App,2,4,2800,15,8806.48,5158.46,3648.02,57,Female,Credit Card,4.1,Confirmed
+HB00410,G1038,2025-11-03,2025-11-10,GrandAura,Mumbai,West,Premium,Leisure Stay,Corporate,2,6,4200,12,27157.47,20112.1,7045.37,57,Female,Debit Card,3.3,Confirmed
+HB00411,G1028,2025-08-04,2025-09-25,MapleStay,Jaipur,North,Deluxe,Leisure Stay,Website,2,5,2800,0,18951.97,14573.95,4378.02,22,Other,Credit Card,4.7,Confirmed
+HB00412,G1109,2025-09-16,2025-10-29,BlueHarbor,Chennai,South,Standard,Family Stay,Mobile App,3,1,1800,0,3289.6,2094.77,1194.83,25,Male,Credit Card,3,Confirmed
+HB00413,G1157,2025-06-13,2025-06-23,CedarCrown,Lucknow,North,Standard,Weekend Stay,Website,3,3,1800,5,7790.91,5831.52,1959.39,32,Male,Debit Card,4.4,Completed
+HB00414,G1088,2025-04-07,2025-05-29,GrandAura,Chennai,South,Standard,Leisure Stay,Travel Agent,4,3,1800,5,10714.17,7414.72,3299.45,23,Other,UPI,4,Cancelled
+HB00415,G1106,2025-06-09,2025-06-21,CedarCrown,Jaipur,North,Deluxe,Weekend Stay,Mobile App,4,2,2800,12,7239.06,4579.2,2659.86,54,Male,Net Banking,4.2,Confirmed
+HB00416,G1180,2025-09-03,2025-11-08,UrbanNest,Jaipur,North,Premium,Weekend Stay,Website,3,5,4200,0,25122.07,18795.22,6326.85,31,Female,Credit Card,3.3,Confirmed
+HB00417,G1122,2025-09-18,2025-12-14,BlueHarbor,Kolkata,East,Deluxe,Family Stay,Website,1,3,2800,0,8623.68,5072.1,3551.58,42,Female,Net Banking,3.9,Confirmed
+HB00418,G1203,2025-01-21,2025-03-15,BlueHarbor,Hyderabad,South,Deluxe,Family Stay,Website,2,7,2800,10,18406.36,12409.85,5996.51,68,Other,Credit Card,4.8,Confirmed
+HB00419,G1074,2025-07-02,2025-09-22,GrandAura,Chennai,South,Premium,Leisure Stay,Website,2,6,4200,15,25588.95,15465.55,10123.4,49,Male,Credit Card,4,Completed
+HB00420,G1020,2025-10-19,2025-11-25,MapleStay,Delhi,North,Standard,Leisure Stay,Travel Agent,1,7,1800,10,11617.7,8766.04,2851.66,61,Male,Wallet,4.5,Confirmed
+HB00421,G1179,2025-07-19,2025-08-26,MapleStay,Chennai,South,Premium,Business Stay,Mobile App,3,7,4200,8,25422.83,18685.99,6736.84,39,Female,Credit Card,4.6,Completed
+HB00422,G1179,2025-04-22,2025-05-17,UrbanNest,Chennai,South,Deluxe,Weekend Stay,Travel Agent,4,3,2800,0,12741.58,7571.74,5169.84,39,Female,Net Banking,3.4,Confirmed
+HB00423,G1121,2025-04-02,2025-06-14,CedarCrown,Guwahati,East,Deluxe,Leisure Stay,Website,2,1,2800,8,3516.67,2636.56,880.11,48,Other,Credit Card,4.6,Confirmed
+HB00424,G1195,2025-01-08,2025-01-22,GrandAura,Jaipur,North,Deluxe,Business Stay,Travel Agent,3,3,2800,12,9974.24,5959.17,4015.07,59,Male,Debit Card,4.7,Cancelled
+HB00425,G1212,2025-09-24,2025-10-14,CedarCrown,Bengaluru,South,Deluxe,Leisure Stay,Travel Agent,3,6,2800,8,17523.78,11739.73,5784.05,56,Male,Net Banking,3,Confirmed
+HB00426,G1005,2025-10-20,2025-10-28,BlueHarbor,Pune,West,Standard,Business Stay,Travel Agent,3,1,1800,0,4967.49,3148.09,1819.4,60,Other,Debit Card,4.3,Confirmed
+HB00427,G1194,2025-10-23,2025-10-27,BlueHarbor,Kolkata,East,Deluxe,Weekend Stay,Website,1,7,2800,5,21342.06,14642.65,6699.41,46,Female,Debit Card,3.2,Confirmed
+HB00428,G1098,2025-10-28,2025-12-07,GrandAura,Kolkata,East,Standard,Family Stay,Mobile App,3,3,1800,0,6709.45,3723.23,2986.22,29,Other,UPI,3.4,Confirmed
+HB00429,G1074,2025-12-23,2025-12-24,RoyalVista,Bhubaneswar,East,Standard,Family Stay,Corporate,1,2,1800,5,4499.85,2815.12,1684.73,49,Male,Credit Card,3.9,Confirmed
+HB00430,G1198,2025-02-02,2025-03-13,RoyalVista,Mumbai,West,Deluxe,Leisure Stay,Travel Agent,1,1,2800,8,3695.1,1990.61,1704.49,28,Other,Credit Card,4.8,Confirmed
+HB00431,G1210,2025-02-08,2025-04-07,RoyalVista,Chennai,South,Standard,Leisure Stay,Website,1,6,1800,5,10141.7,6248.91,3892.79,22,Other,Net Banking,3.6,Cancelled
+HB00432,G1216,2025-08-04,2025-08-05,MapleStay,Bengaluru,South,Deluxe,Leisure Stay,Website,4,4,2800,8,13051.26,7745.36,5305.9,23,Male,Credit Card,3.4,Completed
+HB00433,G1099,2025-08-02,2025-10-24,CedarCrown,Hyderabad,South,Deluxe,Family Stay,Travel Agent,2,4,2800,0,13081.08,7502.75,5578.33,65,Other,Net Banking,3.9,Completed
+HB00434,G1179,2025-12-02,2025-12-04,RoyalVista,Chennai,South,Standard,Family Stay,Corporate,1,7,1800,12,10603.49,6801.53,3801.96,39,Female,UPI,4,Confirmed
+HB00435,G1104,2025-07-09,2025-08-23,CedarCrown,Chennai,South,Deluxe,Weekend Stay,Travel Agent,3,6,2800,5,20076.12,14719.56,5356.56,53,Female,Debit Card,3.8,Confirmed
+HB00436,G1132,2025-12-01,2025-12-07,MapleStay,Lucknow,North,Premium,Weekend Stay,Mobile App,4,2,4200,15,9687.99,5384.08,4303.91,51,Other,UPI,3.5,Completed
+HB00437,G1020,2025-12-19,2026-01-02,CedarCrown,Pune,West,Deluxe,Leisure Stay,Travel Agent,4,4,2800,10,12849.13,7257.18,5591.95,61,Male,Debit Card,4.3,Cancelled
+HB00438,G1171,2025-08-06,2025-09-28,UrbanNest,Hyderabad,South,Deluxe,Family Stay,Travel Agent,1,2,2800,10,5581.24,3753.14,1828.1,48,Male,Debit Card,4.7,Confirmed
+HB00439,G1145,2025-07-01,2025-08-01,GrandAura,Bhubaneswar,East,Standard,Weekend Stay,Corporate,1,6,1800,15,8973.62,5314.2,3659.42,52,Female,Wallet,4,Completed
+HB00440,G1123,2025-10-05,2025-11-11,GrandAura,Hyderabad,South,Deluxe,Leisure Stay,Corporate,3,2,2800,0,10273.96,6484.83,3789.13,59,Male,Net Banking,4.7,Confirmed
+HB00441,G1039,2025-10-09,2025-11-10,CedarCrown,Mumbai,West,Deluxe,Leisure Stay,Travel Agent,4,3,2800,10,12069.34,8886.66,3182.68,53,Other,Wallet,4.1,Confirmed
+HB00442,G1178,2025-10-03,2025-12-05,RoyalVista,Mumbai,West,Premium,Weekend Stay,Mobile App,3,6,4200,0,33992.15,26204.55,7787.6,58,Male,UPI,3.6,Completed
+HB00443,G1026,2025-01-14,2025-03-16,CedarCrown,Guwahati,East,Standard,Weekend Stay,Corporate,4,3,1800,10,8437.21,5974.29,2462.92,66,Other,UPI,4.5,Confirmed
+HB00444,G1144,2025-03-28,2025-03-29,RoyalVista,Mumbai,West,Deluxe,Business Stay,Corporate,1,2,2800,8,6352.73,4649.11,1703.62,37,Female,Credit Card,3.4,Confirmed
+HB00445,G1065,2025-01-02,2025-02-17,GrandAura,Guwahati,East,Premium,Family Stay,Mobile App,4,6,4200,8,27548.18,17070.63,10477.55,65,Female,Net Banking,3.8,Confirmed
+HB00446,G1194,2025-07-22,2025-10-15,GrandAura,Bhubaneswar,East,Standard,Leisure Stay,Website,4,6,1800,0,16693.63,10056.57,6637.06,46,Female,Debit Card,4.2,Confirmed
+HB00447,G1170,2025-12-16,2026-02-18,RoyalVista,Mumbai,West,Deluxe,Business Stay,Travel Agent,4,4,2800,12,11592.68,8917.2,2675.48,37,Male,UPI,4.2,Cancelled
+HB00448,G1045,2025-01-10,2025-02-12,UrbanNest,Mumbai,West,Premium,Leisure Stay,Mobile App,3,1,4200,15,6144.56,4524.35,1620.21,60,Female,Net Banking,4.8,Completed
+HB00449,G1092,2025-10-22,2026-01-08,BlueHarbor,Bengaluru,South,Deluxe,Weekend Stay,Website,1,1,2800,0,3967.76,2461.27,1506.49,41,Other,UPI,4.1,Completed
+HB00450,G1158,2025-12-09,2026-01-17,GrandAura,Mumbai,West,Premium,Business Stay,Travel Agent,4,4,4200,10,19619.3,13891.59,5727.71,43,Male,Net Banking,4.6,Confirmed
+HB00451,G1165,2025-03-15,2025-05-06,UrbanNest,Kolkata,East,Premium,Weekend Stay,Travel Agent,3,7,4200,0,28540.38,22069.51,6470.87,67,Male,Net Banking,4.2,Confirmed
+HB00452,G1006,2025-01-08,2025-03-28,UrbanNest,Jaipur,North,Suite,Weekend Stay,Mobile App,1,3,6500,8,17318.94,10707.87,6611.07,47,Other,Net Banking,4.8,Confirmed
+HB00453,G1026,2025-07-15,2025-10-06,CedarCrown,Delhi,North,Deluxe,Weekend Stay,Website,3,1,2800,10,3472.28,2277.02,1195.26,66,Other,Credit Card,3.2,Completed
+HB00454,G1023,2025-06-27,2025-09-21,UrbanNest,Kolkata,East,Deluxe,Weekend Stay,Corporate,3,5,2800,5,16781.78,12275.48,4506.3,55,Female,Credit Card,4.2,Confirmed
+HB00455,G1073,2025-08-08,2025-09-14,GrandAura,Ahmedabad,West,Standard,Family Stay,Travel Agent,2,7,1800,12,14526.18,10558.78,3967.4,53,Female,Wallet,3.5,Confirmed
+HB00456,G1185,2025-04-22,2025-06-29,BlueHarbor,Guwahati,East,Standard,Family Stay,Travel Agent,3,7,1800,10,15782.01,12183.21,3598.8,27,Male,UPI,3.8,Cancelled
+HB00457,G1143,2025-01-12,2025-01-21,RoyalVista,Ahmedabad,West,Standard,Weekend Stay,Travel Agent,4,1,1800,5,4685.05,3351.44,1333.61,43,Male,Debit Card,3.4,Cancelled
+HB00458,G1027,2025-03-26,2025-05-10,MapleStay,Delhi,North,Premium,Family Stay,Mobile App,1,4,4200,12,15595.04,9245.12,6349.92,57,Female,Net Banking,4,Cancelled
+HB00459,G1170,2025-02-24,2025-04-03,BlueHarbor,Bhubaneswar,East,Deluxe,Family Stay,Website,1,4,2800,12,9612.95,5790.33,3822.62,37,Male,Net Banking,3.9,Confirmed
+HB00460,G1089,2025-12-30,2026-03-13,UrbanNest,Bhubaneswar,East,Premium,Leisure Stay,Mobile App,1,6,4200,12,20111.27,14931.43,5179.84,38,Other,Net Banking,3.3,Completed
+HB00461,G1051,2025-04-16,2025-06-23,MapleStay,Mumbai,West,Standard,Family Stay,Website,4,5,1800,12,11926.81,7398.36,4528.45,66,Other,UPI,3.5,Confirmed
+HB00462,G1180,2025-11-07,2025-12-14,RoyalVista,Bengaluru,South,Standard,Leisure Stay,Travel Agent,2,6,1800,12,12685.22,9734.03,2951.19,31,Female,Wallet,3.8,Confirmed
+HB00463,G1113,2025-05-19,2025-06-30,UrbanNest,Bengaluru,South,Premium,Business Stay,Website,2,6,4200,15,26396.96,14775.98,11620.98,51,Female,UPI,3.8,Confirmed
+HB00464,G1208,2025-07-12,2025-09-06,RoyalVista,Kolkata,East,Standard,Business Stay,Corporate,2,2,1800,15,5363.31,3763.03,1600.28,40,Female,Net Banking,3.5,Confirmed
+HB00465,G1085,2025-02-23,2025-05-20,UrbanNest,Bengaluru,South,Standard,Business Stay,Travel Agent,4,5,1800,5,8556.05,4763.94,3792.11,26,Other,UPI,4.9,Confirmed
+HB00466,G1058,2025-01-21,2025-02-13,BlueHarbor,Bengaluru,South,Deluxe,Family Stay,Corporate,2,5,2800,10,12665.81,8887.89,3777.92,33,Female,UPI,3.2,Confirmed
+HB00467,G1072,2025-04-25,2025-04-28,CedarCrown,Bengaluru,South,Premium,Leisure Stay,Corporate,4,5,4200,8,26879.34,17033.96,9845.38,65,Other,Wallet,3.3,Cancelled
+HB00468,G1214,2025-12-21,2026-02-12,RoyalVista,Ahmedabad,West,Deluxe,Weekend Stay,Travel Agent,2,6,2800,0,21253.73,15163.52,6090.21,31,Other,UPI,4.4,Confirmed
+HB00469,G1045,2025-07-26,2025-08-03,GrandAura,Mumbai,West,Suite,Family Stay,Mobile App,4,3,6500,8,23039.62,14468.77,8570.85,60,Female,Credit Card,3,Confirmed
+HB00470,G1198,2025-07-01,2025-08-19,CedarCrown,Pune,West,Suite,Leisure Stay,Travel Agent,2,3,6500,5,24526.19,15591.25,8934.94,28,Other,Wallet,3.4,Completed
+HB00471,G1032,2025-08-03,2025-09-19,MapleStay,Kolkata,East,Deluxe,Business Stay,Website,4,6,2800,15,15686.94,9952.5,5734.44,58,Other,Debit Card,4.1,Cancelled
+HB00472,G1158,2025-07-19,2025-09-07,GrandAura,Chennai,South,Deluxe,Family Stay,Travel Agent,4,1,2800,0,7096.58,4565.69,2530.89,43,Male,Debit Card,4.6,Confirmed
+HB00473,G1030,2025-09-18,2025-10-19,CedarCrown,Ahmedabad,West,Deluxe,Leisure Stay,Website,1,5,2800,12,12646.57,8365.64,4280.93,50,Female,Debit Card,3,Confirmed
+HB00474,G1021,2025-05-14,2025-07-11,UrbanNest,Guwahati,East,Deluxe,Weekend Stay,Corporate,4,2,2800,5,7422.97,3934.76,3488.21,67,Female,Debit Card,3.9,Confirmed
+HB00475,G1088,2025-11-05,2025-12-30,GrandAura,Ahmedabad,West,Premium,Leisure Stay,Corporate,4,4,4200,0,19912.37,12483.15,7429.22,23,Other,Net Banking,3.6,Cancelled
+HB00476,G1116,2025-09-08,2025-11-25,BlueHarbor,Chennai,South,Standard,Leisure Stay,Mobile App,4,7,1800,0,15950.17,9044.92,6905.25,28,Female,Wallet,4.2,Completed
+HB00477,G1145,2025-06-13,2025-09-02,BlueHarbor,Bhubaneswar,East,Deluxe,Leisure Stay,Travel Agent,3,4,2800,10,12372.39,7320.74,5051.65,52,Female,Wallet,4.7,Completed
+HB00478,G1057,2025-04-15,2025-05-01,UrbanNest,Delhi,North,Standard,Family Stay,Website,2,7,1800,15,11900.57,6345.41,5555.16,46,Female,Wallet,4.7,Completed
+HB00479,G1134,2025-03-31,2025-04-16,CedarCrown,Delhi,North,Premium,Business Stay,Website,4,1,4200,8,7926.11,4574.89,3351.22,29,Other,Credit Card,4.8,Confirmed
+HB00480,G1051,2025-07-12,2025-09-01,CedarCrown,Delhi,North,Deluxe,Leisure Stay,Mobile App,3,2,2800,15,5039.12,3804.81,1234.31,66,Other,Net Banking,3.5,Confirmed
+HB00481,G1042,2025-10-09,2026-01-03,BlueHarbor,Bhubaneswar,East,Deluxe,Weekend Stay,Travel Agent,1,5,2800,12,11246.78,7990.37,3256.41,24,Other,Debit Card,4.8,Confirmed
+HB00482,G1021,2025-04-05,2025-05-07,CedarCrown,Delhi,North,Standard,Leisure Stay,Website,4,7,1800,12,16835.32,12605.99,4229.33,67,Female,UPI,5,Confirmed
+HB00483,G1161,2025-12-18,2026-03-05,UrbanNest,Chennai,South,Deluxe,Family Stay,Corporate,3,4,2800,10,14607.57,8936.29,5671.28,55,Male,Wallet,3.4,Confirmed
+HB00484,G1062,2025-05-16,2025-06-04,BlueHarbor,Mumbai,West,Standard,Business Stay,Corporate,2,6,1800,15,10406.59,5908.95,4497.64,50,Other,UPI,4,Confirmed
+HB00485,G1109,2025-05-02,2025-05-31,CedarCrown,Chennai,South,Standard,Family Stay,Corporate,4,2,1800,0,7042.92,3975.19,3067.73,25,Male,UPI,3.9,Cancelled
+HB00486,G1071,2025-10-05,2025-11-08,BlueHarbor,Delhi,North,Standard,Leisure Stay,Mobile App,4,4,1800,10,10587.76,7201.82,3385.94,27,Female,UPI,3.3,Completed
+HB00487,G1175,2025-07-02,2025-08-19,CedarCrown,Pune,West,Standard,Business Stay,Mobile App,3,4,1800,0,8874.36,5968.86,2905.5,62,Other,Net Banking,4.2,Cancelled
+HB00488,G1077,2025-07-26,2025-09-08,RoyalVista,Lucknow,North,Suite,Business Stay,Mobile App,4,3,6500,12,19132.91,11882.18,7250.73,62,Female,UPI,3.1,Confirmed
+HB00489,G1161,2025-05-08,2025-07-18,CedarCrown,Lucknow,North,Standard,Weekend Stay,Corporate,3,7,1800,15,14599.3,8797.57,5801.73,55,Male,Credit Card,4.8,Cancelled
+HB00490,G1058,2025-07-20,2025-07-27,BlueHarbor,Jaipur,North,Standard,Leisure Stay,Travel Agent,3,3,1800,12,7442.31,4107.71,3334.6,33,Female,Net Banking,4.4,Cancelled
+HB00491,G1037,2025-02-10,2025-04-20,MapleStay,Guwahati,East,Deluxe,Business Stay,Travel Agent,3,6,2800,0,18423.79,13240.09,5183.7,37,Female,Wallet,4.7,Confirmed
+HB00492,G1093,2025-04-21,2025-06-17,BlueHarbor,Jaipur,North,Premium,Business Stay,Travel Agent,1,6,4200,12,19918.59,13865.04,6053.55,58,Other,Debit Card,3.8,Completed
+HB00493,G1085,2025-01-12,2025-03-28,GrandAura,Guwahati,East,Premium,Family Stay,Website,1,5,4200,0,24312.32,13737.24,10575.08,26,Other,Credit Card,4.7,Confirmed
+HB00494,G1071,2025-05-17,2025-06-03,CedarCrown,Lucknow,North,Standard,Leisure Stay,Website,4,2,1800,8,6746.75,4822.36,1924.39,27,Female,Net Banking,3.6,Confirmed
+HB00495,G1114,2025-05-26,2025-08-07,MapleStay,Jaipur,North,Standard,Weekend Stay,Travel Agent,4,2,1800,0,6085.06,3595.26,2489.8,64,Female,Credit Card,4.1,Confirmed
+HB00496,G1107,2025-11-27,2025-12-03,MapleStay,Pune,West,Standard,Weekend Stay,Website,2,4,1800,15,8409.55,5845.05,2564.5,45,Male,Wallet,3.9,Cancelled
+HB00497,G1003,2025-10-07,2026-01-02,BlueHarbor,Bengaluru,South,Standard,Weekend Stay,Website,1,4,1800,15,7172.56,4201.83,2970.73,62,Male,UPI,3.2,Confirmed
+HB00498,G1013,2025-05-28,2025-06-19,UrbanNest,Chennai,South,Standard,Family Stay,Mobile App,3,5,1800,5,12972.65,9378.01,3594.64,49,Male,Net Banking,3.9,Confirmed
+HB00499,G1206,2025-01-31,2025-02-15,RoyalVista,Guwahati,East,Standard,Weekend Stay,Website,2,3,1800,8,6901.71,3754.2,3147.51,42,Female,Net Banking,4.6,Confirmed
+HB00500,G1161,2025-10-13,2025-12-02,RoyalVista,Jaipur,North,Deluxe,Business Stay,Travel Agent,3,4,2800,0,16357.18,9185.32,7171.86,55,Male,Debit Card,5,Cancelled
+HB00501,G1016,2025-07-31,2025-08-09,BlueHarbor,Ahmedabad,West,Standard,Family Stay,Mobile App,3,7,1800,0,17136.91,10778.19,6358.72,34,Female,UPI,4.2,Cancelled
+HB00502,G1129,2025-02-20,2025-03-06,UrbanNest,Jaipur,North,Premium,Leisure Stay,Corporate,1,6,4200,10,29463.69,15491.79,13971.9,62,Other,UPI,4.6,Completed
+HB00503,G1030,2025-12-18,2026-03-18,UrbanNest,Hyderabad,South,Premium,Weekend Stay,Website,3,5,4200,5,28143.22,17736.95,10406.27,50,Female,Wallet,4,Confirmed
+HB00504,G1048,2025-09-12,2025-10-03,RoyalVista,Ahmedabad,West,Standard,Business Stay,Corporate,4,2,1800,12,7454.66,4254.13,3200.53,28,Other,Wallet,3.2,Confirmed
+HB00505,G1069,2025-03-10,2025-05-26,CedarCrown,Chennai,South,Deluxe,Business Stay,Website,4,4,2800,5,17062.19,13059.89,4002.3,23,Female,Debit Card,3.2,Cancelled
+HB00506,G1126,2025-12-22,2026-03-10,BlueHarbor,Jaipur,North,Deluxe,Weekend Stay,Mobile App,4,6,2800,0,21136.42,11354.35,9782.07,46,Male,Credit Card,3.8,Confirmed
+HB00507,G1200,2025-09-15,2025-11-02,MapleStay,Guwahati,East,Premium,Family Stay,Travel Agent,4,6,4200,0,32938.93,21770.63,11168.3,64,Female,UPI,3.5,Confirmed
+HB00508,G1154,2025-01-31,2025-03-10,MapleStay,Bhubaneswar,East,Deluxe,Weekend Stay,Mobile App,4,4,2800,5,13043.83,8937.58,4106.25,50,Other,Net Banking,5,Completed
+HB00509,G1217,2025-12-13,2026-03-03,CedarCrown,Jaipur,North,Deluxe,Family Stay,Website,2,3,2800,0,9769.5,6260.62,3508.88,54,Female,Debit Card,3.6,Confirmed
+HB00510,G1002,2025-05-25,2025-06-21,GrandAura,Hyderabad,South,Standard,Family Stay,Travel Agent,2,2,1800,0,6308.77,4168.55,2140.22,53,Other,UPI,3.8,Confirmed
+HB00511,G1053,2025-06-30,2025-09-18,RoyalVista,Bhubaneswar,East,Premium,Leisure Stay,Website,2,5,4200,5,22041.49,12324.12,9717.37,46,Other,UPI,4.2,Confirmed
+HB00512,G1164,2025-02-04,2025-03-15,RoyalVista,Delhi,North,Deluxe,Weekend Stay,Mobile App,1,4,2800,8,13229.96,8094.84,5135.12,56,Other,Credit Card,4.5,Confirmed
+HB00513,G1122,2025-09-29,2025-10-14,RoyalVista,Bengaluru,South,Standard,Business Stay,Travel Agent,4,3,1800,0,8233.95,4389.05,3844.9,42,Female,Net Banking,4,Confirmed
+HB00514,G1154,2025-11-13,2025-12-16,BlueHarbor,Chennai,South,Premium,Leisure Stay,Corporate,2,4,4200,15,13362.41,8794.98,4567.43,50,Other,Wallet,3.6,Confirmed
+HB00515,G1053,2025-03-18,2025-03-25,RoyalVista,Kolkata,East,Standard,Weekend Stay,Travel Agent,2,3,1800,0,7322.03,4210.41,3111.62,46,Other,Wallet,4.8,Cancelled
+HB00516,G1089,2025-04-10,2025-04-18,RoyalVista,Guwahati,East,Deluxe,Weekend Stay,Corporate,1,1,2800,12,4126.77,2900.57,1226.2,38,Other,Debit Card,3.4,Confirmed
+HB00517,G1214,2025-02-15,2025-04-30,RoyalVista,Delhi,North,Deluxe,Weekend Stay,Mobile App,3,4,2800,8,10814.38,6918.68,3895.7,31,Other,Wallet,3.2,Completed
+HB00518,G1024,2025-12-31,2026-03-29,MapleStay,Kolkata,East,Standard,Leisure Stay,Mobile App,3,5,1800,12,13196.3,7266.83,5929.47,39,Female,Debit Card,4.4,Confirmed
+HB00519,G1154,2025-12-24,2026-02-21,BlueHarbor,Hyderabad,South,Standard,Family Stay,Travel Agent,3,7,1800,8,13548.79,9151.87,4396.92,50,Other,Debit Card,3,Confirmed
+HB00520,G1157,2025-05-13,2025-05-18,CedarCrown,Bhubaneswar,East,Deluxe,Leisure Stay,Website,4,5,2800,15,14975.52,10109.98,4865.54,32,Male,Wallet,3,Confirmed
+HB00521,G1207,2025-02-27,2025-05-19,RoyalVista,Bhubaneswar,East,Premium,Leisure Stay,Travel Agent,4,2,4200,10,10753.63,6840.56,3913.07,67,Male,Debit Card,4.1,Confirmed
+HB00522,G1007,2025-06-04,2025-08-24,GrandAura,Hyderabad,South,Deluxe,Family Stay,Corporate,1,6,2800,8,17218.3,11462.64,5755.66,56,Other,Credit Card,5,Confirmed
+HB00523,G1011,2025-08-06,2025-10-14,CedarCrown,Bengaluru,South,Standard,Weekend Stay,Corporate,1,2,1800,15,4167.68,2381.62,1786.06,26,Male,Credit Card,3.4,Confirmed
+HB00524,G1170,2025-06-03,2025-07-11,CedarCrown,Bengaluru,South,Deluxe,Leisure Stay,Corporate,1,3,2800,8,9706.83,6118.01,3588.82,37,Male,Wallet,3.2,Confirmed
+HB00525,G1204,2025-10-10,2026-01-05,MapleStay,Delhi,North,Deluxe,Business Stay,Corporate,2,7,2800,10,17700.38,10070.53,7629.85,48,Male,Debit Card,4.5,Confirmed
+HB00526,G1065,2025-12-04,2026-02-14,MapleStay,Kolkata,East,Deluxe,Leisure Stay,Corporate,4,2,2800,10,8207.46,5021.99,3185.47,65,Female,Debit Card,3.5,Confirmed
+HB00527,G1110,2025-06-01,2025-07-10,UrbanNest,Lucknow,North,Premium,Leisure Stay,Corporate,2,2,4200,0,12156.09,6412.68,5743.41,43,Other,Debit Card,3.1,Cancelled
+HB00528,G1113,2025-10-04,2025-12-03,MapleStay,Mumbai,West,Standard,Weekend Stay,Corporate,1,1,1800,0,2365.01,1237.75,1127.26,51,Female,Wallet,4.6,Confirmed
+HB00529,G1060,2025-04-10,2025-04-20,RoyalVista,Bengaluru,South,Standard,Leisure Stay,Travel Agent,1,3,1800,10,5363.38,2990.21,2373.17,23,Male,UPI,4.4,Completed
+HB00530,G1063,2025-12-11,2026-01-17,BlueHarbor,Mumbai,West,Standard,Family Stay,Website,2,5,1800,0,11754.16,7411.61,4342.55,52,Female,Wallet,3.4,Completed
+HB00531,G1154,2025-04-15,2025-07-14,GrandAura,Hyderabad,South,Premium,Family Stay,Website,4,7,4200,15,32955.73,21244.65,11711.08,50,Other,Credit Card,3.8,Confirmed
+HB00532,G1043,2025-12-25,2026-02-26,MapleStay,Kolkata,East,Deluxe,Business Stay,Mobile App,4,6,2800,0,22994.29,12504,10490.29,54,Other,Wallet,4.3,Confirmed
+HB00533,G1054,2025-07-01,2025-09-11,CedarCrown,Mumbai,West,Premium,Business Stay,Travel Agent,2,5,4200,10,19771.14,10555.82,9215.32,40,Other,Net Banking,3.7,Confirmed
+HB00534,G1035,2025-05-21,2025-08-19,RoyalVista,Hyderabad,South,Premium,Weekend Stay,Travel Agent,3,1,4200,5,4631.85,2972.15,1659.7,59,Female,UPI,3.6,Confirmed
+HB00535,G1199,2025-11-13,2026-01-22,GrandAura,Mumbai,West,Standard,Family Stay,Corporate,4,6,1800,5,13601.49,9436.69,4164.8,44,Other,Wallet,4.3,Confirmed
+HB00536,G1144,2025-09-09,2025-10-18,MapleStay,Jaipur,North,Standard,Business Stay,Travel Agent,1,4,1800,15,8410.69,6018.39,2392.3,37,Female,Wallet,4.8,Confirmed
+HB00537,G1183,2025-12-03,2026-02-03,GrandAura,Jaipur,North,Deluxe,Weekend Stay,Mobile App,2,5,2800,15,16156.1,10797.2,5358.9,37,Female,Debit Card,5,Confirmed
+HB00538,G1085,2025-02-14,2025-05-15,RoyalVista,Pune,West,Deluxe,Business Stay,Website,4,4,2800,8,12918.88,8990.45,3928.43,26,Other,Net Banking,4.2,Confirmed
+HB00539,G1030,2025-12-08,2026-01-11,BlueHarbor,Jaipur,North,Deluxe,Business Stay,Mobile App,1,6,2800,8,15505.49,10890.65,4614.84,50,Female,Wallet,4.3,Cancelled
+HB00540,G1010,2025-06-22,2025-08-23,RoyalVista,Hyderabad,South,Standard,Family Stay,Travel Agent,2,2,1800,15,5996.81,3522.96,2473.85,21,Other,Credit Card,3.1,Confirmed
+HB00541,G1138,2025-11-26,2026-02-18,MapleStay,Kolkata,East,Standard,Business Stay,Corporate,3,2,1800,8,5347.69,3237.77,2109.92,32,Female,Wallet,4.1,Completed
+HB00542,G1185,2025-05-05,2025-07-07,RoyalVista,Pune,West,Standard,Family Stay,Mobile App,2,6,1800,15,11620.72,7850.29,3770.43,27,Male,Credit Card,3.7,Confirmed
+HB00543,G1019,2025-07-26,2025-08-27,RoyalVista,Kolkata,East,Deluxe,Business Stay,Corporate,2,5,2800,15,12869.5,9028.54,3840.96,68,Other,Wallet,4.2,Confirmed
+HB00544,G1125,2025-03-17,2025-04-12,BlueHarbor,Lucknow,North,Premium,Business Stay,Travel Agent,4,7,4200,0,31684.02,19659.75,12024.27,25,Other,Credit Card,3.5,Cancelled
+HB00545,G1065,2025-08-24,2025-09-07,RoyalVista,Guwahati,East,Suite,Family Stay,Mobile App,4,5,6500,8,37855.58,21591.09,16264.49,65,Female,UPI,4,Confirmed
+HB00546,G1101,2025-04-12,2025-05-28,UrbanNest,Guwahati,East,Deluxe,Weekend Stay,Mobile App,3,4,2800,10,10522.36,6395.96,4126.4,47,Other,Wallet,3.1,Cancelled
+HB00547,G1142,2025-06-19,2025-08-31,BlueHarbor,Guwahati,East,Premium,Weekend Stay,Corporate,3,1,4200,15,4598.66,2685.91,1912.75,40,Male,Credit Card,3.6,Completed
+HB00548,G1010,2025-06-22,2025-07-02,BlueHarbor,Jaipur,North,Deluxe,Family Stay,Website,1,3,2800,10,7337.92,3992.88,3345.04,21,Other,Credit Card,4,Confirmed
+HB00549,G1087,2025-12-20,2026-03-13,MapleStay,Bhubaneswar,East,Standard,Leisure Stay,Mobile App,4,6,1800,12,10543.88,7015.15,3528.73,28,Other,Wallet,4.9,Confirmed
+HB00550,G1106,2025-02-02,2025-02-13,CedarCrown,Lucknow,North,Premium,Leisure Stay,Website,4,2,4200,12,13530.12,7728.37,5801.75,54,Male,Wallet,4.9,Confirmed
+HB00551,G1051,2025-05-04,2025-07-25,BlueHarbor,Chennai,South,Standard,Leisure Stay,Website,1,7,1800,0,13256.12,9668.39,3587.73,66,Other,Credit Card,3.9,Confirmed
+HB00552,G1011,2025-03-28,2025-06-23,CedarCrown,Kolkata,East,Standard,Business Stay,Corporate,1,2,1800,12,4201.44,2803.5,1397.94,26,Male,Net Banking,3.2,Confirmed
+HB00553,G1046,2025-07-10,2025-08-31,RoyalVista,Bengaluru,South,Suite,Leisure Stay,Travel Agent,2,2,6500,8,16048.49,11001.73,5046.76,51,Male,Credit Card,4,Cancelled
+HB00554,G1167,2025-03-17,2025-05-02,UrbanNest,Kolkata,East,Standard,Leisure Stay,Corporate,4,1,1800,15,5330.83,3783.68,1547.15,57,Female,Debit Card,4,Completed
+HB00555,G1113,2025-04-17,2025-07-07,MapleStay,Bhubaneswar,East,Deluxe,Leisure Stay,Website,2,6,2800,0,18928.21,10973.47,7954.74,51,Female,Debit Card,4,Cancelled
+HB00556,G1087,2025-03-24,2025-05-02,RoyalVista,Ahmedabad,West,Premium,Family Stay,Travel Agent,1,4,4200,12,18081.85,13743.28,4338.57,28,Other,UPI,4.8,Confirmed
+HB00557,G1217,2025-01-01,2025-01-24,UrbanNest,Bengaluru,South,Premium,Weekend Stay,Corporate,2,7,4200,10,24428.38,17190.08,7238.3,54,Female,UPI,5,Cancelled
+HB00558,G1142,2025-11-18,2025-11-22,CedarCrown,Guwahati,East,Standard,Family Stay,Travel Agent,2,6,1800,0,12886.01,9013.28,3872.73,40,Male,UPI,4.6,Confirmed
+HB00559,G1186,2025-06-07,2025-06-28,GrandAura,Kolkata,East,Standard,Business Stay,Travel Agent,4,1,1800,12,5524.92,3737.98,1786.94,22,Female,Debit Card,4.5,Cancelled
+HB00560,G1023,2025-05-20,2025-06-20,GrandAura,Hyderabad,South,Deluxe,Weekend Stay,Travel Agent,3,7,2800,0,22595.93,11785.6,10810.33,55,Female,UPI,3.2,Confirmed
+HB00561,G1078,2025-03-19,2025-06-05,GrandAura,Pune,West,Standard,Leisure Stay,Travel Agent,3,7,1800,8,13129.88,8760.84,4369.04,52,Female,UPI,4.6,Confirmed
+HB00562,G1058,2025-08-19,2025-08-26,RoyalVista,Jaipur,North,Premium,Weekend Stay,Website,3,4,4200,12,20695.25,14531.91,6163.34,33,Female,Credit Card,3.1,Completed
+HB00563,G1196,2025-07-22,2025-07-27,UrbanNest,Jaipur,North,Standard,Business Stay,Mobile App,2,1,1800,0,2653.89,1990.21,663.68,59,Female,UPI,3.7,Completed
+HB00564,G1093,2025-12-14,2026-01-08,RoyalVista,Delhi,North,Deluxe,Weekend Stay,Website,4,3,2800,5,10926.46,7340.95,3585.51,58,Other,Wallet,3.8,Confirmed
+HB00565,G1205,2025-05-06,2025-07-26,BlueHarbor,Hyderabad,South,Deluxe,Leisure Stay,Website,3,1,2800,0,4858.96,2555.81,2303.15,39,Other,Debit Card,4.6,Confirmed
+HB00566,G1201,2025-02-23,2025-03-11,GrandAura,Lucknow,North,Deluxe,Leisure Stay,Mobile App,2,5,2800,0,13143.92,9941.3,3202.62,45,Female,Wallet,4.7,Confirmed
+HB00567,G1139,2025-12-25,2026-03-13,GrandAura,Chennai,South,Standard,Weekend Stay,Website,4,7,1800,8,14756.42,8818.08,5938.34,38,Female,Debit Card,4.1,Confirmed
+HB00568,G1146,2025-05-06,2025-07-29,BlueHarbor,Chennai,South,Premium,Weekend Stay,Travel Agent,1,5,4200,0,21726.6,14813.54,6913.06,39,Female,Net Banking,3.1,Cancelled
+HB00569,G1109,2025-11-14,2025-12-20,BlueHarbor,Mumbai,West,Standard,Family Stay,Travel Agent,1,2,1800,8,4469.02,3460.03,1008.99,25,Male,Credit Card,4.2,Confirmed
+HB00570,G1206,2025-03-02,2025-05-03,MapleStay,Jaipur,North,Premium,Leisure Stay,Website,4,3,4200,12,16430.11,9470.27,6959.84,42,Female,Credit Card,4.6,Confirmed
+HB00571,G1078,2025-12-26,2026-03-24,BlueHarbor,Bhubaneswar,East,Suite,Family Stay,Travel Agent,2,4,6500,10,25791.31,17847.32,7943.99,52,Female,Debit Card,3.2,Confirmed
+HB00572,G1024,2025-06-14,2025-09-08,CedarCrown,Hyderabad,South,Standard,Weekend Stay,Mobile App,3,2,1800,0,7922.2,5434.52,2487.68,39,Female,UPI,3.4,Confirmed
+HB00573,G1173,2025-03-13,2025-04-11,UrbanNest,Chennai,South,Standard,Business Stay,Travel Agent,2,5,1800,10,9190.26,6808.6,2381.66,24,Female,Net Banking,3.1,Confirmed
+HB00574,G1203,2025-02-10,2025-04-09,MapleStay,Chennai,South,Deluxe,Leisure Stay,Mobile App,1,6,2800,8,15630.4,11625.9,4004.5,68,Other,UPI,3.1,Confirmed
+HB00575,G1101,2025-09-29,2025-11-24,GrandAura,Hyderabad,South,Deluxe,Business Stay,Website,4,3,2800,0,12300.61,6569.33,5731.28,47,Other,Debit Card,3.9,Confirmed
+HB00576,G1030,2025-06-25,2025-08-04,UrbanNest,Kolkata,East,Standard,Leisure Stay,Travel Agent,4,6,1800,8,13254.78,8516.24,4738.54,50,Female,Debit Card,4.3,Completed
+HB00577,G1130,2025-12-07,2026-03-07,CedarCrown,Bhubaneswar,East,Suite,Business Stay,Travel Agent,1,5,6500,5,36545.87,23929.21,12616.66,24,Female,Credit Card,5,Confirmed
+HB00578,G1133,2025-09-17,2025-11-14,BlueHarbor,Chennai,South,Premium,Weekend Stay,Corporate,2,7,4200,8,28508.4,16666.96,11841.44,64,Male,Debit Card,3.2,Confirmed
+HB00579,G1135,2025-01-19,2025-02-11,UrbanNest,Ahmedabad,West,Deluxe,Business Stay,Mobile App,3,7,2800,10,21496.72,13669.29,7827.43,54,Male,Net Banking,3.2,Confirmed
+HB00580,G1031,2025-10-02,2025-11-17,CedarCrown,Kolkata,East,Standard,Weekend Stay,Mobile App,1,4,1800,5,6786.73,5021.79,1764.94,26,Female,Wallet,3.4,Confirmed
+HB00581,G1065,2025-12-10,2026-02-16,UrbanNest,Kolkata,East,Suite,Business Stay,Mobile App,4,3,6500,0,20498.73,15904.85,4593.88,65,Female,UPI,4.5,Cancelled
+HB00582,G1127,2025-06-16,2025-08-23,BlueHarbor,Guwahati,East,Premium,Business Stay,Travel Agent,1,6,4200,15,21959.49,15084,6875.49,33,Other,Debit Card,3.3,Completed
+HB00583,G1143,2025-04-30,2025-05-29,MapleStay,Bhubaneswar,East,Premium,Family Stay,Website,1,1,4200,8,5004.16,3189.87,1814.29,43,Male,Debit Card,3.2,Confirmed
+HB00584,G1003,2025-03-29,2025-03-30,UrbanNest,Pune,West,Premium,Leisure Stay,Travel Agent,1,2,4200,5,9456.99,7238.4,2218.59,62,Male,Wallet,4.7,Confirmed
+HB00585,G1014,2025-08-04,2025-09-04,MapleStay,Delhi,North,Deluxe,Family Stay,Corporate,1,4,2800,8,11642.73,8159.4,3483.33,64,Female,Wallet,4.2,Completed
+HB00586,G1130,2025-04-12,2025-06-06,GrandAura,Bengaluru,South,Suite,Leisure Stay,Mobile App,1,4,6500,10,27428.88,19957.38,7471.5,24,Female,Debit Card,3.5,Confirmed
+HB00587,G1139,2025-05-10,2025-05-29,GrandAura,Ahmedabad,West,Standard,Weekend Stay,Travel Agent,2,1,1800,10,3817.01,2168.52,1648.49,38,Female,Wallet,4.7,Confirmed
+HB00588,G1186,2025-05-30,2025-08-04,UrbanNest,Mumbai,West,Standard,Family Stay,Website,3,1,1800,0,3688.77,2652.38,1036.39,22,Female,Wallet,3.4,Cancelled
+HB00589,G1030,2025-07-20,2025-08-15,UrbanNest,Hyderabad,South,Suite,Business Stay,Corporate,2,3,6500,5,23229.23,15569.98,7659.25,50,Female,UPI,4.8,Completed
+HB00590,G1063,2025-02-22,2025-04-14,CedarCrown,Kolkata,East,Deluxe,Business Stay,Corporate,3,6,2800,8,16875.37,9979.54,6895.83,52,Female,Wallet,4.2,Cancelled
+HB00591,G1052,2025-05-30,2025-06-22,MapleStay,Lucknow,North,Standard,Business Stay,Website,2,7,1800,0,14785.63,10078.1,4707.53,37,Other,Credit Card,3,Cancelled
+HB00592,G1137,2025-12-05,2026-03-04,GrandAura,Guwahati,East,Standard,Weekend Stay,Corporate,2,5,1800,0,9400.78,5394.06,4006.72,31,Other,Debit Card,3.1,Completed
+HB00593,G1032,2025-02-25,2025-05-24,CedarCrown,Hyderabad,South,Deluxe,Leisure Stay,Travel Agent,2,5,2800,5,12953.61,8117.06,4836.55,58,Other,Debit Card,4.8,Confirmed
+HB00594,G1202,2025-02-25,2025-04-02,BlueHarbor,Ahmedabad,West,Standard,Business Stay,Mobile App,1,2,1800,0,4086.74,2655.7,1431.04,43,Male,Credit Card,4.2,Confirmed
+HB00595,G1053,2025-09-29,2025-10-14,GrandAura,Ahmedabad,West,Deluxe,Leisure Stay,Travel Agent,3,4,2800,0,12749.02,9675.44,3073.58,46,Other,Net Banking,4.2,Completed
+HB00596,G1168,2025-06-25,2025-09-07,GrandAura,Jaipur,North,Premium,Leisure Stay,Mobile App,3,2,4200,10,10540.78,7683.05,2857.73,63,Other,UPI,3.9,Cancelled
+HB00597,G1130,2025-05-01,2025-07-27,RoyalVista,Pune,West,Standard,Leisure Stay,Website,2,3,1800,8,6743.09,4833.61,1909.48,24,Female,Net Banking,4,Cancelled
+HB00598,G1091,2025-10-30,2026-01-01,BlueHarbor,Lucknow,North,Standard,Business Stay,Travel Agent,4,5,1800,5,15124.93,8684.71,6440.22,30,Male,Debit Card,4.5,Confirmed
+HB00599,G1021,2025-08-02,2025-08-29,GrandAura,Pune,West,Premium,Family Stay,Website,3,5,4200,0,23215.67,13255.58,9960.09,67,Female,Debit Card,3.7,Cancelled
+HB00600,G1072,2025-09-03,2025-11-28,GrandAura,Bhubaneswar,East,Standard,Business Stay,Website,4,4,1800,0,8322.65,5583.82,2738.83,65,Other,Credit Card,3.5,Confirmed
+HB00601,G1093,2025-03-28,2025-05-03,MapleStay,Bhubaneswar,East,Standard,Family Stay,Website,2,2,1800,0,4116.26,3064,1052.26,58,Other,UPI,5,Confirmed
+HB00602,G1009,2025-06-02,2025-07-22,RoyalVista,Chennai,South,Standard,Weekend Stay,Website,4,7,1800,12,14961.73,10418.79,4542.94,49,Male,UPI,4.4,Cancelled
+HB00603,G1148,2025-09-22,2025-12-11,RoyalVista,Hyderabad,South,Standard,Weekend Stay,Travel Agent,3,7,1800,10,14142.22,7749.77,6392.45,54,Female,Debit Card,3.3,Completed
+HB00604,G1113,2025-01-17,2025-03-01,CedarCrown,Bhubaneswar,East,Deluxe,Weekend Stay,Mobile App,2,1,2800,10,3499.43,2532.91,966.52,51,Female,Credit Card,4.2,Completed
+HB00605,G1196,2025-04-13,2025-04-16,MapleStay,Bengaluru,South,Standard,Weekend Stay,Travel Agent,1,1,1800,12,2762.41,1668.6,1093.81,59,Female,Wallet,4.5,Completed
+HB00606,G1059,2025-02-06,2025-03-26,CedarCrown,Bengaluru,South,Premium,Family Stay,Website,4,1,4200,5,5310.55,4116.12,1194.43,38,Male,Net Banking,4.9,Confirmed
+HB00607,G1112,2025-09-20,2025-10-17,BlueHarbor,Jaipur,North,Premium,Weekend Stay,Mobile App,1,6,4200,12,26968.7,19142.48,7826.22,22,Other,UPI,4.5,Cancelled
+HB00608,G1047,2025-10-01,2025-12-04,RoyalVista,Kolkata,East,Standard,Weekend Stay,Corporate,4,2,1800,8,7220.53,5438.57,1781.96,51,Male,Debit Card,4.2,Confirmed
+HB00609,G1047,2025-05-29,2025-06-10,BlueHarbor,Delhi,North,Premium,Leisure Stay,Mobile App,4,3,4200,15,12578.99,6719.5,5859.49,51,Male,UPI,4.9,Confirmed
+HB00610,G1108,2025-12-14,2026-01-07,CedarCrown,Hyderabad,South,Standard,Weekend Stay,Corporate,3,5,1800,0,14520.37,9517.07,5003.3,27,Female,Wallet,3.8,Confirmed
+HB00611,G1174,2025-01-04,2025-02-12,CedarCrown,Mumbai,West,Standard,Weekend Stay,Website,2,6,1800,12,12528.77,7400.32,5128.45,67,Male,Wallet,3.4,Completed
+HB00612,G1081,2025-01-11,2025-02-18,RoyalVista,Jaipur,North,Deluxe,Weekend Stay,Website,2,2,2800,8,6564.25,3484.69,3079.56,30,Female,Wallet,4.8,Confirmed
+HB00613,G1079,2025-07-19,2025-08-18,BlueHarbor,Kolkata,East,Standard,Business Stay,Website,2,3,1800,0,7321.19,5449.71,1871.48,27,Male,Net Banking,4.9,Cancelled
+HB00614,G1057,2025-06-23,2025-07-25,UrbanNest,Guwahati,East,Premium,Business Stay,Mobile App,2,5,4200,10,18426.51,12248.48,6178.03,46,Female,Credit Card,3.7,Confirmed
+HB00615,G1050,2025-01-04,2025-03-02,CedarCrown,Hyderabad,South,Deluxe,Business Stay,Website,1,1,2800,8,4099.2,3186.13,913.07,64,Female,Net Banking,3.3,Confirmed
+HB00616,G1001,2025-08-23,2025-10-16,RoyalVista,Kolkata,East,Standard,Leisure Stay,Corporate,2,2,1800,0,5565.73,3969.46,1596.27,28,Female,UPI,4.6,Confirmed
+HB00617,G1107,2025-11-15,2026-01-17,UrbanNest,Bhubaneswar,East,Premium,Weekend Stay,Mobile App,2,6,4200,8,28533.42,14940.73,13592.69,45,Male,Debit Card,3.4,Confirmed
+HB00618,G1022,2025-06-22,2025-08-24,CedarCrown,Guwahati,East,Standard,Leisure Stay,Corporate,3,6,1800,15,9965.15,7438.18,2526.97,26,Other,Net Banking,3.5,Confirmed
+HB00619,G1009,2025-12-28,2026-01-29,UrbanNest,Bengaluru,South,Deluxe,Leisure Stay,Travel Agent,4,7,2800,5,17863.63,11378.96,6484.67,49,Male,Credit Card,4.7,Confirmed
+HB00620,G1027,2025-02-12,2025-05-12,UrbanNest,Bengaluru,South,Suite,Family Stay,Website,1,3,6500,8,22545.49,16927.77,5617.72,57,Female,UPI,4.7,Confirmed
+HB00621,G1064,2025-06-25,2025-09-17,RoyalVista,Ahmedabad,West,Standard,Leisure Stay,Website,4,1,1800,15,6110.38,3502,2608.38,33,Female,Net Banking,4.8,Confirmed
+HB00622,G1112,2025-12-07,2026-02-08,BlueHarbor,Lucknow,North,Premium,Family Stay,Mobile App,4,5,4200,5,24434.2,16291.12,8143.08,22,Other,Credit Card,4,Confirmed
+HB00623,G1077,2025-08-10,2025-10-17,GrandAura,Hyderabad,South,Standard,Weekend Stay,Corporate,3,6,1800,0,12324.77,6834.82,5489.95,62,Female,Debit Card,3.3,Completed
+HB00624,G1004,2025-05-12,2025-07-15,MapleStay,Delhi,North,Standard,Weekend Stay,Mobile App,4,5,1800,8,12841.25,6818.82,6022.43,35,Other,Net Banking,4.1,Completed
+HB00625,G1160,2025-03-02,2025-05-20,MapleStay,Mumbai,West,Standard,Family Stay,Mobile App,1,6,1800,0,12081.1,8720.45,3360.65,64,Other,UPI,3.2,Confirmed
+HB00626,G1120,2025-12-03,2026-03-01,BlueHarbor,Guwahati,East,Premium,Business Stay,Travel Agent,4,1,4200,10,9407.57,5916.84,3490.73,54,Male,Debit Card,4.1,Confirmed
+HB00627,G1063,2025-10-11,2025-12-18,CedarCrown,Pune,West,Standard,Leisure Stay,Travel Agent,4,7,1800,12,18196.1,13866.47,4329.63,52,Female,Credit Card,4.9,Confirmed
+HB00628,G1161,2025-12-10,2026-01-15,RoyalVista,Delhi,North,Premium,Weekend Stay,Mobile App,2,3,4200,5,15745.59,11220.9,4524.69,55,Male,Debit Card,4.1,Confirmed
+HB00629,G1091,2025-11-09,2025-12-15,CedarCrown,Kolkata,East,Suite,Family Stay,Mobile App,4,3,6500,10,24477.09,13480.09,10997,30,Male,Net Banking,4.9,Cancelled
+HB00630,G1088,2025-09-24,2025-12-02,BlueHarbor,Ahmedabad,West,Premium,Family Stay,Travel Agent,1,2,4200,15,7120.59,4260.26,2860.33,23,Other,UPI,3.8,Completed
+HB00631,G1125,2025-04-25,2025-06-13,RoyalVista,Mumbai,West,Standard,Leisure Stay,Corporate,4,3,1800,12,6103.26,4679.66,1423.6,25,Other,Credit Card,3.8,Confirmed
+HB00632,G1023,2025-11-26,2025-12-06,BlueHarbor,Ahmedabad,West,Deluxe,Weekend Stay,Mobile App,2,6,2800,5,18648.92,10176.91,8472.01,55,Female,Credit Card,4.2,Confirmed
+HB00633,G1054,2025-12-20,2025-12-30,CedarCrown,Guwahati,East,Deluxe,Business Stay,Travel Agent,2,1,2800,15,3741.47,2686.2,1055.27,40,Other,Net Banking,4.3,Confirmed
+HB00634,G1037,2025-12-27,2026-02-17,GrandAura,Kolkata,East,Premium,Weekend Stay,Mobile App,3,7,4200,10,30018.7,17266.08,12752.62,37,Female,Debit Card,3.7,Confirmed
+HB00635,G1174,2025-11-10,2025-12-29,BlueHarbor,Bhubaneswar,East,Deluxe,Leisure Stay,Website,3,4,2800,0,13878.98,9536.3,4342.68,67,Male,Credit Card,4.2,Confirmed
+HB00636,G1051,2025-10-11,2025-12-22,MapleStay,Pune,West,Standard,Weekend Stay,Website,2,7,1800,10,12644.52,8768.94,3875.58,66,Other,UPI,4,Cancelled
+HB00637,G1020,2025-09-18,2025-11-21,CedarCrown,Lucknow,North,Deluxe,Business Stay,Website,1,3,2800,0,9851.15,5590.75,4260.4,61,Male,Wallet,4.2,Confirmed
+HB00638,G1173,2025-06-11,2025-07-16,RoyalVista,Chennai,South,Deluxe,Family Stay,Website,1,2,2800,12,6278.01,4383.39,1894.62,24,Female,UPI,3.3,Cancelled
+HB00639,G1162,2025-06-01,2025-06-28,BlueHarbor,Hyderabad,South,Standard,Weekend Stay,Corporate,3,4,1800,5,9498.94,7085.7,2413.24,28,Other,Wallet,4.2,Completed
+HB00640,G1178,2025-10-19,2026-01-07,BlueHarbor,Bhubaneswar,East,Standard,Family Stay,Travel Agent,1,2,1800,5,4510.42,3232.57,1277.85,58,Male,Net Banking,4.6,Cancelled
+HB00641,G1119,2025-01-16,2025-02-04,RoyalVista,Jaipur,North,Suite,Weekend Stay,Travel Agent,4,6,6500,8,41512.36,31605.83,9906.53,30,Other,UPI,4,Completed
+HB00642,G1157,2025-01-10,2025-03-22,UrbanNest,Mumbai,West,Deluxe,Weekend Stay,Corporate,2,4,2800,0,13110.45,10018.16,3092.29,32,Male,Debit Card,3.2,Confirmed
+HB00643,G1015,2025-03-29,2025-04-16,RoyalVista,Hyderabad,South,Deluxe,Business Stay,Mobile App,1,3,2800,8,8480.66,4927.83,3552.83,64,Female,Credit Card,3,Cancelled
+HB00644,G1143,2025-09-12,2025-09-18,CedarCrown,Bengaluru,South,Suite,Family Stay,Travel Agent,2,2,6500,8,14410.86,10542.79,3868.07,43,Male,Wallet,4.7,Confirmed
+HB00645,G1038,2025-12-29,2026-03-03,GrandAura,Kolkata,East,Deluxe,Weekend Stay,Travel Agent,3,2,2800,8,8665.67,5813.14,2852.53,57,Female,UPI,3,Completed
+HB00646,G1034,2025-06-28,2025-09-13,RoyalVista,Chennai,South,Standard,Business Stay,Corporate,1,3,1800,8,6702.23,4123.62,2578.61,48,Other,Debit Card,4.3,Confirmed
+HB00647,G1060,2025-08-12,2025-08-29,CedarCrown,Guwahati,East,Standard,Weekend Stay,Website,3,4,1800,0,9262.55,5855.55,3407,23,Male,UPI,3.3,Confirmed
+HB00648,G1202,2025-09-12,2025-10-05,RoyalVista,Jaipur,North,Standard,Leisure Stay,Travel Agent,4,6,1800,0,13698.39,8431.21,5267.18,43,Male,Credit Card,3.4,Cancelled
+HB00649,G1036,2025-10-12,2025-11-18,GrandAura,Kolkata,East,Deluxe,Leisure Stay,Website,2,4,2800,15,11269.04,8363.62,2905.42,46,Other,Net Banking,4.6,Confirmed
+HB00650,G1191,2025-05-06,2025-07-21,BlueHarbor,Hyderabad,South,Standard,Family Stay,Website,4,1,1800,5,3566.21,2765.66,800.55,59,Other,Credit Card,4.8,Confirmed
+HB00651,G1089,2025-10-26,2025-12-19,RoyalVista,Pune,West,Deluxe,Family Stay,Corporate,2,7,2800,0,19739.54,14473.39,5266.15,38,Other,Net Banking,4.7,Confirmed
+HB00652,G1105,2025-04-16,2025-07-06,GrandAura,Bhubaneswar,East,Deluxe,Family Stay,Mobile App,4,4,2800,5,14160.09,8080.94,6079.15,45,Male,Debit Card,3.4,Confirmed
+HB00653,G1179,2025-08-05,2025-10-01,CedarCrown,Kolkata,East,Suite,Business Stay,Travel Agent,2,6,6500,10,37018.08,19565.85,17452.23,39,Female,Net Banking,4.4,Confirmed
+HB00654,G1146,2025-06-27,2025-09-17,GrandAura,Pune,West,Deluxe,Family Stay,Mobile App,3,5,2800,5,18020.97,13343,4677.97,39,Female,Net Banking,4.2,Cancelled
+HB00655,G1183,2025-03-13,2025-03-16,RoyalVista,Bhubaneswar,East,Standard,Leisure Stay,Corporate,4,6,1800,12,12264.54,9212.39,3052.15,37,Female,Net Banking,3.8,Confirmed
+HB00656,G1111,2025-02-15,2025-02-17,RoyalVista,Hyderabad,South,Premium,Business Stay,Mobile App,1,3,4200,8,12911.74,8908.8,4002.94,43,Male,Credit Card,3.1,Completed
+HB00657,G1021,2025-07-24,2025-10-03,BlueHarbor,Hyderabad,South,Deluxe,Family Stay,Travel Agent,3,1,2800,15,5574.58,2987.33,2587.25,67,Female,Debit Card,4.5,Confirmed
+HB00658,G1078,2025-04-13,2025-06-18,MapleStay,Hyderabad,South,Standard,Business Stay,Mobile App,3,3,1800,15,7071.68,3816.56,3255.12,52,Female,UPI,3.5,Cancelled
+HB00659,G1156,2025-02-17,2025-04-20,RoyalVista,Mumbai,West,Deluxe,Family Stay,Corporate,2,3,2800,15,8831.05,6547.36,2283.69,55,Other,Debit Card,4,Completed
+HB00660,G1122,2025-11-25,2026-01-25,RoyalVista,Jaipur,North,Standard,Weekend Stay,Mobile App,3,6,1800,0,13551.51,10122.29,3429.22,42,Female,Debit Card,3.4,Confirmed
+HB00661,G1077,2025-06-27,2025-08-05,BlueHarbor,Hyderabad,South,Deluxe,Weekend Stay,Travel Agent,3,7,2800,0,23827.34,12997.59,10829.75,62,Female,Credit Card,3.7,Confirmed
+HB00662,G1003,2025-07-15,2025-08-19,RoyalVista,Lucknow,North,Standard,Leisure Stay,Website,2,5,1800,10,10037.5,6291.78,3745.72,62,Male,UPI,3.1,Confirmed
+HB00663,G1127,2025-04-13,2025-07-05,BlueHarbor,Delhi,North,Standard,Leisure Stay,Corporate,3,7,1800,10,15558.64,12045.97,3512.67,33,Other,Wallet,5,Confirmed
+HB00664,G1108,2025-01-22,2025-03-03,GrandAura,Pune,West,Deluxe,Business Stay,Mobile App,2,6,2800,15,17998.04,9743.51,8254.53,27,Female,Net Banking,4,Confirmed
+HB00665,G1043,2025-08-16,2025-11-13,RoyalVista,Kolkata,East,Deluxe,Weekend Stay,Mobile App,3,1,2800,0,5743.47,4222.13,1521.34,54,Other,Net Banking,4.8,Confirmed
+HB00666,G1044,2025-03-11,2025-03-22,CedarCrown,Jaipur,North,Standard,Leisure Stay,Mobile App,3,1,1800,15,4142.87,2296.2,1846.67,27,Other,Wallet,4.9,Confirmed
+HB00667,G1149,2025-04-09,2025-06-21,UrbanNest,Lucknow,North,Premium,Weekend Stay,Website,1,2,4200,5,8030.15,4781.87,3248.28,49,Male,Credit Card,3.1,Confirmed
+HB00668,G1211,2025-03-16,2025-03-23,GrandAura,Hyderabad,South,Deluxe,Weekend Stay,Mobile App,3,7,2800,5,23703.74,18173,5530.74,42,Male,Debit Card,3,Completed
+HB00669,G1131,2025-09-27,2025-10-20,RoyalVista,Ahmedabad,West,Deluxe,Family Stay,Website,2,1,2800,5,5135.19,3347.08,1788.11,62,Male,Wallet,4.6,Cancelled
+HB00670,G1025,2025-01-05,2025-01-22,UrbanNest,Bhubaneswar,East,Premium,Family Stay,Corporate,2,3,4200,12,11767.29,7295.48,4471.81,30,Other,UPI,4.2,Confirmed
+HB00671,G1170,2025-07-01,2025-07-07,BlueHarbor,Chennai,South,Standard,Weekend Stay,Website,4,2,1800,0,7856.44,4348.44,3508,37,Male,Credit Card,4.1,Confirmed
+HB00672,G1115,2025-04-29,2025-06-20,RoyalVista,Delhi,North,Deluxe,Family Stay,Website,4,6,2800,0,22160.17,17065.21,5094.96,49,Female,Wallet,3.5,Confirmed
+HB00673,G1043,2025-12-30,2026-02-26,CedarCrown,Lucknow,North,Standard,Leisure Stay,Travel Agent,4,1,1800,15,6150.56,4064.66,2085.9,54,Other,Credit Card,4.7,Confirmed
+HB00674,G1194,2025-05-12,2025-07-12,BlueHarbor,Kolkata,East,Standard,Weekend Stay,Website,4,1,1800,5,5337.49,3674.61,1662.88,46,Female,Net Banking,3.7,Confirmed
+HB00675,G1139,2025-08-04,2025-10-25,RoyalVista,Delhi,North,Standard,Weekend Stay,Corporate,3,4,1800,5,9323.39,7018.94,2304.45,38,Female,UPI,3.6,Cancelled
+HB00676,G1095,2025-12-13,2025-12-22,RoyalVista,Lucknow,North,Standard,Leisure Stay,Travel Agent,1,3,1800,15,5625.64,3335.11,2290.53,67,Male,Credit Card,3.9,Completed
+HB00677,G1103,2025-05-07,2025-06-22,GrandAura,Lucknow,North,Deluxe,Weekend Stay,Corporate,3,4,2800,0,13635.29,7787.8,5847.49,58,Female,Debit Card,4.5,Confirmed
+HB00678,G1131,2025-03-14,2025-05-09,GrandAura,Kolkata,East,Standard,Family Stay,Website,3,6,1800,15,11872.66,7364.67,4507.99,62,Male,Debit Card,3.6,Confirmed
+HB00679,G1181,2025-07-07,2025-09-01,GrandAura,Jaipur,North,Deluxe,Weekend Stay,Corporate,2,5,2800,12,14013.71,9319.04,4694.67,37,Male,UPI,3.1,Confirmed
+HB00680,G1197,2025-11-05,2025-12-04,UrbanNest,Lucknow,North,Standard,Family Stay,Website,4,7,1800,5,16600.83,11635.22,4965.61,48,Other,Credit Card,3.4,Confirmed
+HB00681,G1058,2025-07-19,2025-10-15,RoyalVista,Bhubaneswar,East,Standard,Business Stay,Website,3,1,1800,10,3561.38,2153.23,1408.15,33,Female,Net Banking,3.9,Confirmed
+HB00682,G1152,2025-05-11,2025-07-12,GrandAura,Hyderabad,South,Premium,Family Stay,Travel Agent,3,6,4200,12,23720.08,16920.46,6799.62,34,Male,UPI,3.5,Confirmed
+HB00683,G1116,2025-01-31,2025-03-19,CedarCrown,Bengaluru,South,Deluxe,Family Stay,Mobile App,1,6,2800,15,16197.3,11140.67,5056.63,28,Female,Wallet,3.4,Confirmed
+HB00684,G1079,2025-01-30,2025-04-07,RoyalVista,Jaipur,North,Standard,Weekend Stay,Website,2,4,1800,10,8689.33,5917.9,2771.43,27,Male,Credit Card,3.3,Confirmed
+HB00685,G1094,2025-01-03,2025-02-01,CedarCrown,Ahmedabad,West,Deluxe,Leisure Stay,Website,3,4,2800,12,9971.34,6252.52,3718.82,52,Other,Net Banking,4.8,Cancelled
+HB00686,G1013,2025-04-28,2025-07-13,BlueHarbor,Mumbai,West,Standard,Leisure Stay,Corporate,4,4,1800,8,12910.37,7889.09,5021.28,49,Male,Net Banking,4.7,Confirmed
+HB00687,G1039,2025-03-15,2025-05-08,CedarCrown,Hyderabad,South,Deluxe,Family Stay,Corporate,2,2,2800,0,6206.84,3416.34,2790.5,53,Other,Net Banking,4.3,Completed
+HB00688,G1103,2025-09-23,2025-10-20,RoyalVista,Pune,West,Standard,Family Stay,Corporate,3,7,1800,0,15268.65,11608.89,3659.76,58,Female,Wallet,3.2,Cancelled
+HB00689,G1016,2025-05-16,2025-06-13,BlueHarbor,Bhubaneswar,East,Standard,Family Stay,Travel Agent,3,2,1800,5,7275.12,5198.16,2076.96,34,Female,Net Banking,3.6,Confirmed
+HB00690,G1069,2025-01-22,2025-04-07,UrbanNest,Bengaluru,South,Premium,Weekend Stay,Corporate,1,6,4200,5,28159.44,19678.75,8480.69,23,Female,Debit Card,4.3,Confirmed
+HB00691,G1053,2025-06-28,2025-07-06,MapleStay,Hyderabad,South,Standard,Weekend Stay,Mobile App,1,5,1800,0,10028.87,5561.23,4467.64,46,Other,Credit Card,3.5,Cancelled
+HB00692,G1003,2025-03-29,2025-04-15,GrandAura,Delhi,North,Standard,Business Stay,Corporate,4,1,1800,5,4535.46,3360.89,1174.57,62,Male,UPI,3.6,Cancelled
+HB00693,G1080,2025-02-27,2025-04-10,CedarCrown,Chennai,South,Standard,Family Stay,Corporate,2,3,1800,12,6613.91,4970.99,1642.92,68,Female,Net Banking,4.7,Confirmed
+HB00694,G1203,2025-11-28,2025-11-29,RoyalVista,Jaipur,North,Premium,Business Stay,Corporate,3,5,4200,15,19727.47,11724.96,8002.51,68,Other,UPI,5,Completed
+HB00695,G1129,2025-02-15,2025-04-04,MapleStay,Hyderabad,South,Standard,Leisure Stay,Mobile App,1,7,1800,15,14227.73,8747.31,5480.42,62,Other,Net Banking,3,Confirmed
+HB00696,G1048,2025-10-21,2025-12-15,MapleStay,Delhi,North,Premium,Leisure Stay,Travel Agent,4,6,4200,0,28162.15,19215.23,8946.92,28,Other,Wallet,3.8,Confirmed
+HB00697,G1196,2025-12-01,2026-02-18,BlueHarbor,Kolkata,East,Standard,Leisure Stay,Mobile App,3,6,1800,5,11629.87,7969.76,3660.11,59,Female,Credit Card,3.7,Confirmed
+HB00698,G1027,2025-09-18,2025-10-04,GrandAura,Hyderabad,South,Standard,Leisure Stay,Website,4,3,1800,12,8828.34,5435.72,3392.62,57,Female,Credit Card,4.9,Confirmed
+HB00699,G1031,2025-02-22,2025-02-28,CedarCrown,Mumbai,West,Deluxe,Leisure Stay,Website,4,4,2800,0,13421.71,9388.37,4033.34,26,Female,Debit Card,4.8,Confirmed
+HB00700,G1017,2025-01-08,2025-02-15,GrandAura,Ahmedabad,West,Premium,Family Stay,Travel Agent,2,3,4200,5,14736.25,8832.4,5903.85,37,Female,Credit Card,3.8,Confirmed
+HB00701,G1020,2025-10-31,2025-12-16,MapleStay,Lucknow,North,Standard,Family Stay,Travel Agent,2,7,1800,12,14239.39,10063.67,4175.72,61,Male,Net Banking,4.2,Cancelled
+HB00702,G1171,2025-06-08,2025-08-15,BlueHarbor,Bengaluru,South,Standard,Business Stay,Corporate,3,3,1800,8,7369.31,4684.29,2685.02,48,Male,Net Banking,5,Confirmed
+HB00703,G1024,2025-02-22,2025-03-31,GrandAura,Ahmedabad,West,Deluxe,Business Stay,Mobile App,3,3,2800,10,10431.75,7512.47,2919.28,39,Female,Credit Card,3.3,Confirmed
+HB00704,G1029,2025-02-21,2025-05-07,UrbanNest,Bhubaneswar,East,Suite,Leisure Stay,Corporate,3,4,6500,10,25006.47,17140.76,7865.71,44,Female,UPI,3.2,Confirmed
+HB00705,G1075,2025-08-18,2025-11-06,GrandAura,Ahmedabad,West,Deluxe,Family Stay,Corporate,2,4,2800,10,13723.11,8135.3,5587.81,48,Other,Credit Card,3.2,Confirmed
+HB00706,G1202,2025-08-06,2025-08-27,UrbanNest,Mumbai,West,Deluxe,Business Stay,Corporate,4,3,2800,0,14794.33,9716.39,5077.94,43,Male,Wallet,4.8,Confirmed
+HB00707,G1120,2025-01-04,2025-03-09,UrbanNest,Guwahati,East,Suite,Weekend Stay,Website,4,4,6500,15,22918.49,15398.52,7519.97,54,Male,Credit Card,3.7,Confirmed
+HB00708,G1123,2025-11-15,2025-12-04,GrandAura,Pune,West,Premium,Family Stay,Mobile App,4,6,4200,5,30267,20013.25,10253.75,59,Male,Wallet,3.3,Confirmed
+HB00709,G1097,2025-07-28,2025-07-29,BlueHarbor,Lucknow,North,Standard,Weekend Stay,Mobile App,1,2,1800,0,5282.53,3564.21,1718.32,51,Other,Debit Card,4.1,Confirmed
+HB00710,G1145,2025-05-13,2025-06-23,BlueHarbor,Kolkata,East,Deluxe,Business Stay,Corporate,1,7,2800,0,22222.25,12771.85,9450.4,52,Female,Wallet,4.5,Confirmed
+HB00711,G1178,2025-06-28,2025-07-08,UrbanNest,Chennai,South,Standard,Leisure Stay,Travel Agent,4,3,1800,10,7314.5,4726.86,2587.64,58,Male,Credit Card,4.4,Confirmed
+HB00712,G1090,2025-04-04,2025-04-08,BlueHarbor,Kolkata,East,Standard,Leisure Stay,Travel Agent,1,3,1800,0,6918.47,4528.26,2390.21,61,Female,Wallet,4.5,Confirmed
+HB00713,G1079,2025-04-29,2025-06-23,MapleStay,Mumbai,West,Standard,Family Stay,Travel Agent,3,4,1800,12,11132.37,7463.57,3668.8,27,Male,Credit Card,3.2,Confirmed
+HB00714,G1029,2025-09-17,2025-10-14,MapleStay,Guwahati,East,Standard,Weekend Stay,Mobile App,3,3,1800,8,8532.05,5627.29,2904.76,44,Female,Wallet,5,Cancelled
+HB00715,G1131,2025-09-01,2025-09-04,MapleStay,Lucknow,North,Deluxe,Business Stay,Mobile App,1,6,2800,15,18759.2,10438.81,8320.39,62,Male,Credit Card,3.5,Cancelled
+HB00716,G1064,2025-07-02,2025-08-12,CedarCrown,Ahmedabad,West,Standard,Business Stay,Mobile App,2,7,1800,0,17019.73,11467.36,5552.37,33,Female,Wallet,4.3,Cancelled
+HB00717,G1086,2025-01-09,2025-03-05,BlueHarbor,Ahmedabad,West,Suite,Business Stay,Travel Agent,4,3,6500,8,18950.36,13144.63,5805.73,33,Male,Credit Card,4.3,Confirmed
+HB00718,G1156,2025-12-23,2026-02-03,GrandAura,Guwahati,East,Standard,Family Stay,Website,1,6,1800,15,11720.51,7185.51,4535,55,Other,UPI,4.9,Confirmed
+HB00719,G1206,2025-11-13,2026-02-03,GrandAura,Kolkata,East,Standard,Weekend Stay,Website,2,7,1800,0,13568.9,9629.35,3939.55,42,Female,Credit Card,3.3,Confirmed
+HB00720,G1155,2025-10-08,2025-12-24,UrbanNest,Ahmedabad,West,Standard,Leisure Stay,Website,1,3,1800,15,6240.65,3644.78,2595.87,42,Female,Net Banking,3.5,Confirmed
+HB00721,G1050,2025-06-26,2025-07-26,BlueHarbor,Lucknow,North,Premium,Leisure Stay,Mobile App,3,2,4200,15,7258.51,4185.58,3072.93,64,Female,Debit Card,3.6,Completed
+HB00722,G1139,2025-12-02,2026-01-17,GrandAura,Delhi,North,Standard,Business Stay,Corporate,4,2,1800,5,6870.26,4966.51,1903.75,38,Female,Net Banking,3.2,Cancelled
+HB00723,G1119,2025-05-13,2025-07-09,BlueHarbor,Delhi,North,Deluxe,Family Stay,Mobile App,1,5,2800,5,17195.36,12514.52,4680.84,30,Other,Credit Card,3.5,Cancelled
+HB00724,G1178,2025-03-05,2025-03-25,GrandAura,Ahmedabad,West,Standard,Business Stay,Corporate,1,4,1800,10,8333.1,4517.68,3815.42,58,Male,Net Banking,3.9,Completed
+HB00725,G1027,2025-12-15,2026-01-05,RoyalVista,Jaipur,North,Standard,Leisure Stay,Mobile App,3,1,1800,8,5232.8,4001.89,1230.91,57,Female,Net Banking,3.7,Confirmed
+HB00726,G1219,2025-04-12,2025-07-05,MapleStay,Bengaluru,South,Deluxe,Family Stay,Travel Agent,1,3,2800,10,10453.96,7601.21,2852.75,62,Female,Credit Card,4,Completed
+HB00727,G1022,2025-01-08,2025-03-20,RoyalVista,Chennai,South,Standard,Weekend Stay,Travel Agent,4,7,1800,10,16351.26,11092,5259.26,26,Other,Wallet,4.4,Confirmed
+HB00728,G1085,2025-12-07,2025-12-19,GrandAura,Ahmedabad,West,Premium,Family Stay,Mobile App,2,4,4200,15,14394.3,10672.74,3721.56,26,Other,Credit Card,3.8,Cancelled
+HB00729,G1022,2025-08-27,2025-10-12,MapleStay,Ahmedabad,West,Deluxe,Business Stay,Travel Agent,1,4,2800,8,13203.07,8760.37,4442.7,26,Other,Wallet,3.3,Confirmed
+HB00730,G1100,2025-09-19,2025-12-06,RoyalVista,Delhi,North,Standard,Weekend Stay,Corporate,4,2,1800,10,8178.94,6160.69,2018.25,39,Male,UPI,5,Confirmed
+HB00731,G1090,2025-10-11,2025-11-05,BlueHarbor,Delhi,North,Deluxe,Family Stay,Corporate,1,4,2800,5,12777.2,9017.69,3759.51,61,Female,Wallet,3.4,Confirmed
+HB00732,G1159,2025-08-15,2025-10-27,RoyalVista,Jaipur,North,Deluxe,Business Stay,Corporate,3,7,2800,8,19410.06,11123.15,8286.91,43,Other,Net Banking,4.1,Cancelled
+HB00733,G1150,2025-01-07,2025-02-08,RoyalVista,Mumbai,West,Standard,Business Stay,Travel Agent,1,5,1800,0,10441.7,7013.13,3428.57,54,Other,Credit Card,3.3,Confirmed
+HB00734,G1104,2025-07-20,2025-08-15,GrandAura,Chennai,South,Deluxe,Leisure Stay,Mobile App,4,2,2800,10,8150.64,5856.79,2293.85,53,Female,Credit Card,3.5,Confirmed
+HB00735,G1174,2025-10-12,2025-10-17,MapleStay,Delhi,North,Standard,Business Stay,Website,1,2,1800,5,3740.01,2638.27,1101.74,67,Male,Net Banking,4,Completed
+HB00736,G1127,2025-08-14,2025-09-04,UrbanNest,Hyderabad,South,Standard,Business Stay,Corporate,3,4,1800,8,7917.73,4681.9,3235.83,33,Other,Debit Card,4.2,Confirmed
+HB00737,G1021,2025-11-30,2026-01-31,RoyalVista,Kolkata,East,Deluxe,Leisure Stay,Travel Agent,3,6,2800,0,23112.8,14263.68,8849.12,67,Female,Wallet,4.7,Confirmed
+HB00738,G1190,2025-02-22,2025-04-07,BlueHarbor,Bhubaneswar,East,Standard,Business Stay,Corporate,4,6,1800,0,12460.75,6932.29,5528.46,41,Female,Net Banking,3.8,Confirmed
+HB00739,G1155,2025-08-24,2025-09-06,BlueHarbor,Bengaluru,South,Premium,Leisure Stay,Travel Agent,3,6,4200,0,25856.96,16267.63,9589.33,42,Female,Net Banking,4.1,Cancelled
+HB00740,G1186,2025-08-19,2025-08-21,GrandAura,Hyderabad,South,Deluxe,Weekend Stay,Mobile App,3,4,2800,10,15613,11068.55,4544.45,22,Female,Wallet,4.3,Confirmed
+HB00741,G1074,2025-04-17,2025-06-19,MapleStay,Ahmedabad,West,Standard,Family Stay,Travel Agent,1,5,1800,0,11866.67,7109.77,4756.9,49,Male,Credit Card,3.8,Confirmed
+HB00742,G1051,2025-10-14,2026-01-01,BlueHarbor,Lucknow,North,Standard,Leisure Stay,Travel Agent,2,3,1800,10,7027.02,5043.65,1983.37,66,Other,Net Banking,3.6,Confirmed
+HB00743,G1107,2025-12-21,2026-01-11,MapleStay,Mumbai,West,Premium,Business Stay,Mobile App,2,4,4200,5,21484.96,11341.59,10143.37,45,Male,Credit Card,3.8,Cancelled
+HB00744,G1040,2025-09-23,2025-11-13,RoyalVista,Ahmedabad,West,Standard,Leisure Stay,Travel Agent,4,4,1800,12,8890.72,5633.11,3257.61,22,Other,UPI,3.3,Confirmed
+HB00745,G1039,2025-06-30,2025-07-19,MapleStay,Kolkata,East,Standard,Weekend Stay,Website,4,7,1800,10,11952.4,8503.23,3449.17,53,Other,Wallet,3.2,Confirmed
+HB00746,G1192,2025-07-07,2025-09-30,GrandAura,Ahmedabad,West,Standard,Business Stay,Website,3,1,1800,8,3390.17,1968.21,1421.96,62,Other,Credit Card,3.6,Confirmed
+HB00747,G1205,2025-05-22,2025-08-10,GrandAura,Bengaluru,South,Standard,Weekend Stay,Corporate,1,4,1800,0,9750.06,7304.72,2445.34,39,Other,Net Banking,3.8,Completed
+HB00748,G1025,2025-02-21,2025-04-28,UrbanNest,Delhi,North,Standard,Weekend Stay,Corporate,1,6,1800,0,11895.33,8266.9,3628.43,30,Other,Wallet,4.3,Cancelled
+HB00749,G1086,2025-01-16,2025-03-01,MapleStay,Jaipur,North,Standard,Family Stay,Corporate,3,3,1800,5,6574.39,4597.59,1976.8,33,Male,Debit Card,3.5,Confirmed
+HB00750,G1122,2025-04-15,2025-06-11,CedarCrown,Pune,West,Standard,Business Stay,Website,2,5,1800,8,10440.85,7200.34,3240.51,42,Female,Debit Card,4.8,Completed
+HB00751,G1177,2025-04-23,2025-05-15,CedarCrown,Bengaluru,South,Standard,Leisure Stay,Mobile App,1,6,1800,10,12150.28,7829.5,4320.78,41,Female,Debit Card,4.8,Confirmed
+HB00752,G1182,2025-12-02,2026-01-13,MapleStay,Hyderabad,South,Deluxe,Leisure Stay,Mobile App,3,7,2800,0,25581.06,16621.2,8959.86,21,Female,UPI,3.9,Completed
+HB00753,G1206,2025-03-21,2025-05-01,CedarCrown,Pune,West,Premium,Leisure Stay,Mobile App,3,3,4200,10,14818.14,7950.04,6868.1,42,Female,Net Banking,3.8,Confirmed
+HB00754,G1220,2025-11-26,2025-12-06,CedarCrown,Delhi,North,Standard,Leisure Stay,Corporate,1,5,1800,15,10340.54,5449.44,4891.1,22,Female,Net Banking,4.3,Cancelled
+HB00755,G1010,2025-04-20,2025-06-04,UrbanNest,Bengaluru,South,Deluxe,Family Stay,Website,2,6,2800,0,20627.15,10800.8,9826.35,21,Other,Credit Card,3.2,Completed
+HB00756,G1133,2025-03-01,2025-04-19,UrbanNest,Bhubaneswar,East,Premium,Business Stay,Mobile App,3,5,4200,5,21495.88,13515.2,7980.68,64,Male,Net Banking,3.7,Completed
+HB00757,G1059,2025-02-03,2025-04-14,BlueHarbor,Hyderabad,South,Standard,Weekend Stay,Corporate,3,1,1800,12,4321.72,3025.22,1296.5,38,Male,Net Banking,3.3,Completed
+HB00758,G1009,2025-07-27,2025-08-27,MapleStay,Delhi,North,Deluxe,Business Stay,Corporate,3,4,2800,5,12270.84,9322.35,2948.49,49,Male,Debit Card,3.1,Confirmed
+HB00759,G1212,2025-09-30,2025-10-02,BlueHarbor,Chennai,South,Standard,Business Stay,Corporate,2,2,1800,8,4795.69,3364.37,1431.32,56,Male,Debit Card,4.2,Confirmed
+HB00760,G1037,2025-03-01,2025-03-12,BlueHarbor,Pune,West,Standard,Business Stay,Travel Agent,3,4,1800,8,10734.87,6544.6,4190.27,37,Female,Net Banking,3.8,Confirmed
+HB00761,G1127,2025-10-16,2026-01-13,MapleStay,Bengaluru,South,Suite,Weekend Stay,Mobile App,3,3,6500,8,21633.62,12223.53,9410.09,33,Other,Wallet,4.5,Confirmed
+HB00762,G1038,2025-02-15,2025-05-14,BlueHarbor,Chennai,South,Standard,Business Stay,Website,4,4,1800,10,11027.54,7546.94,3480.6,57,Female,Debit Card,3.3,Confirmed
+HB00763,G1031,2025-07-11,2025-09-16,UrbanNest,Ahmedabad,West,Deluxe,Leisure Stay,Website,1,5,2800,15,10879.15,7095.67,3783.48,26,Female,Credit Card,4.1,Completed
+HB00764,G1154,2025-07-23,2025-09-20,RoyalVista,Bhubaneswar,East,Standard,Weekend Stay,Travel Agent,3,6,1800,10,11783.43,7869.42,3914.01,50,Other,Net Banking,3.6,Confirmed
+HB00765,G1126,2025-08-09,2025-08-26,BlueHarbor,Chennai,South,Standard,Family Stay,Corporate,3,4,1800,5,8266.59,4845.51,3421.08,46,Male,Credit Card,4,Confirmed
+HB00766,G1146,2025-02-11,2025-03-24,MapleStay,Kolkata,East,Deluxe,Family Stay,Corporate,4,7,2800,0,23699.43,12369.84,11329.59,39,Female,Wallet,3.7,Completed
+HB00767,G1190,2025-09-09,2025-11-20,MapleStay,Pune,West,Deluxe,Weekend Stay,Mobile App,1,6,2800,15,12780.49,9609.07,3171.42,41,Female,Credit Card,4.3,Cancelled
+HB00768,G1202,2025-08-30,2025-11-15,BlueHarbor,Ahmedabad,West,Standard,Family Stay,Website,4,7,1800,8,15379.96,8283.52,7096.44,43,Male,Credit Card,4.5,Confirmed
+HB00769,G1130,2025-08-22,2025-10-19,RoyalVista,Hyderabad,South,Deluxe,Leisure Stay,Travel Agent,1,3,2800,5,8559.38,5615.51,2943.87,24,Female,Debit Card,5,Confirmed
+HB00770,G1031,2025-01-13,2025-01-18,MapleStay,Lucknow,North,Deluxe,Business Stay,Website,4,5,2800,5,18318.12,10699.45,7618.67,26,Female,UPI,3.6,Confirmed
+HB00771,G1165,2025-05-30,2025-06-18,UrbanNest,Guwahati,East,Deluxe,Leisure Stay,Corporate,3,2,2800,15,5867.28,3396.68,2470.6,67,Male,UPI,4.2,Completed
+HB00772,G1108,2025-02-08,2025-03-14,RoyalVista,Chennai,South,Standard,Family Stay,Website,2,4,1800,12,8234.31,5739.79,2494.52,27,Female,UPI,4.3,Completed
+HB00773,G1002,2025-06-10,2025-06-28,MapleStay,Pune,West,Standard,Family Stay,Mobile App,3,3,1800,0,8132.4,4680.6,3451.8,53,Other,Wallet,3.3,Confirmed
+HB00774,G1045,2025-06-14,2025-08-14,CedarCrown,Bengaluru,South,Deluxe,Weekend Stay,Travel Agent,1,4,2800,0,10289.57,8001.6,2287.97,60,Female,Debit Card,4.4,Confirmed
+HB00775,G1046,2025-12-02,2025-12-20,UrbanNest,Pune,West,Premium,Business Stay,Mobile App,2,7,4200,12,27451.31,20951.16,6500.15,51,Male,Wallet,4.6,Cancelled
+HB00776,G1034,2025-12-18,2026-01-03,CedarCrown,Jaipur,North,Premium,Business Stay,Mobile App,1,2,4200,8,8957.38,5633.84,3323.54,48,Other,Wallet,4.1,Confirmed
+HB00777,G1001,2025-04-08,2025-06-26,UrbanNest,Delhi,North,Standard,Family Stay,Website,3,5,1800,12,9614.74,6987.05,2627.69,28,Female,Debit Card,4.2,Completed
+HB00778,G1137,2025-01-25,2025-04-02,GrandAura,Ahmedabad,West,Standard,Leisure Stay,Mobile App,4,5,1800,15,10371.85,5505.85,4866,31,Other,Debit Card,4.2,Confirmed
+HB00779,G1181,2025-05-20,2025-07-01,UrbanNest,Delhi,North,Deluxe,Weekend Stay,Website,4,3,2800,15,10053.15,7227.38,2825.77,37,Male,Debit Card,3.6,Confirmed
+HB00780,G1151,2025-08-20,2025-09-13,GrandAura,Guwahati,East,Standard,Business Stay,Mobile App,2,3,1800,10,7142.81,5337.23,1805.58,38,Male,Net Banking,4.4,Confirmed
+HB00781,G1119,2025-06-26,2025-08-13,CedarCrown,Hyderabad,South,Premium,Family Stay,Mobile App,3,4,4200,0,19790.58,11477.7,8312.88,30,Other,Net Banking,4.8,Confirmed
+HB00782,G1107,2025-11-05,2026-01-23,BlueHarbor,Ahmedabad,West,Standard,Leisure Stay,Mobile App,3,6,1800,12,10276.86,5344.77,4932.09,45,Male,Debit Card,3.9,Cancelled
+HB00783,G1003,2025-04-25,2025-05-31,GrandAura,Jaipur,North,Deluxe,Weekend Stay,Website,3,3,2800,0,12867.96,6810.96,6057,62,Male,Wallet,3.5,Confirmed
+HB00784,G1215,2025-07-16,2025-08-09,CedarCrown,Guwahati,East,Standard,Business Stay,Corporate,1,1,1800,0,3332.2,2537.77,794.43,28,Male,Net Banking,3.1,Confirmed
+HB00785,G1173,2025-11-13,2025-11-29,UrbanNest,Pune,West,Premium,Family Stay,Mobile App,2,2,4200,15,9708.25,5116.31,4591.94,24,Female,Debit Card,4.3,Confirmed
+HB00786,G1118,2025-02-11,2025-05-05,MapleStay,Hyderabad,South,Standard,Business Stay,Travel Agent,1,6,1800,0,13176.8,6922.69,6254.11,60,Male,Credit Card,3.9,Completed
+HB00787,G1012,2025-06-28,2025-08-23,CedarCrown,Kolkata,East,Premium,Weekend Stay,Website,3,4,4200,15,15349.26,11901.8,3447.46,39,Male,UPI,3.4,Completed
+HB00788,G1126,2025-05-14,2025-07-18,RoyalVista,Ahmedabad,West,Premium,Leisure Stay,Website,3,3,4200,0,15453.25,8481.7,6971.55,46,Male,Net Banking,4,Completed
+HB00789,G1031,2025-03-04,2025-04-21,UrbanNest,Delhi,North,Deluxe,Business Stay,Travel Agent,1,6,2800,8,19676.22,14771.23,4904.99,26,Female,Debit Card,3.9,Confirmed
+HB00790,G1148,2025-12-06,2025-12-23,RoyalVista,Lucknow,North,Deluxe,Business Stay,Mobile App,4,3,2800,5,11639.85,8312.75,3327.1,54,Female,Debit Card,3.3,Confirmed
+HB00791,G1198,2025-10-05,2025-11-18,BlueHarbor,Pune,West,Premium,Business Stay,Website,1,7,4200,12,31946.19,19393.44,12552.75,28,Other,Credit Card,4.3,Confirmed
+HB00792,G1016,2025-04-09,2025-07-02,CedarCrown,Chennai,South,Premium,Weekend Stay,Corporate,1,1,4200,12,5406.74,3276.27,2130.47,34,Female,Wallet,4.9,Confirmed
+HB00793,G1165,2025-01-08,2025-01-19,MapleStay,Kolkata,East,Premium,Business Stay,Corporate,2,7,4200,10,26939.07,14987.86,11951.21,67,Male,UPI,3.5,Confirmed
+HB00794,G1126,2025-10-02,2025-10-13,GrandAura,Delhi,North,Standard,Weekend Stay,Mobile App,2,7,1800,0,18513.95,10465.82,8048.13,46,Male,Credit Card,3.3,Confirmed
+HB00795,G1122,2025-05-02,2025-07-29,BlueHarbor,Mumbai,West,Standard,Weekend Stay,Website,1,2,1800,10,3853.75,2147.27,1706.48,42,Female,Debit Card,4.5,Confirmed
+HB00796,G1139,2025-12-25,2026-02-25,MapleStay,Bhubaneswar,East,Standard,Family Stay,Website,2,6,1800,0,12449.94,7394.36,5055.58,38,Female,Credit Card,5,Completed
+HB00797,G1082,2025-08-23,2025-09-13,CedarCrown,Hyderabad,South,Deluxe,Family Stay,Website,2,4,2800,0,13588.66,8778.19,4810.47,21,Male,Wallet,4.4,Completed
+HB00798,G1216,2025-06-14,2025-09-07,GrandAura,Bengaluru,South,Deluxe,Family Stay,Corporate,1,1,2800,15,3437.65,2271.11,1166.54,23,Male,UPI,4.3,Cancelled
+HB00799,G1022,2025-12-17,2025-12-18,GrandAura,Delhi,North,Standard,Family Stay,Travel Agent,4,1,1800,0,5544.2,3979.29,1564.91,26,Other,Debit Card,3.5,Confirmed
+HB00800,G1183,2025-07-01,2025-08-26,CedarCrown,Delhi,North,Deluxe,Family Stay,Travel Agent,3,6,2800,0,20431.44,11409.41,9022.03,37,Female,UPI,3,Confirmed
